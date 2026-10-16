@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-17",
+  "status": "PASS",
+  "scope": "静态结构、链接与最低内容检查；不是逐句专业审校或学习效果验证",
+  "catalog_count": 263,
+  "course_count": 263,
+  "source_count": 111,
+  "distinct_source_urls": 111,
+  "source_years": [
+    2023,
+    2025,
+    2026,
+    2009,
+    2018,
+    null,
+    2024,
+    2019,
+    2010,
+    2004,
+    2011,
+    2007,
+    2016,
+    2017,
+    2022,
+    2020,
+    2015,
+    2006,
+    2021,
+    1979,
+    2012
+  ],
+  "nodes": 375,
+  "edges": 642,
+  "historical_prerequisite_edges": 238,
+  "entry_prerequisite_edges": 43,
+  "protected_baselines": 6,
+  "checked_links": 9724,
+  "han_characters": {
+    "total": 357374,
+    "min": 1054,
+    "max": 1936
+  },
+  "errors": [],
+  "badLinks": [],
+  "not_run": [
+    "真人零基础学习试验",
+    "全篇专业同行审校",
+    "所有第三方全文及补充材料复核",
+    "产品服务、权限过滤与中文检索运行验收",
+    "私有CI、Runner、部署"
+  ]
+}

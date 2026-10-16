@@ -1,0 +1,7334 @@
+{
+  "版本": "2026-10-16-v1",
+  "状态": "原创教学稿与新映射待复核；非自动批准",
+  "说明": "全263目录覆盖。入门单元与旧进阶前置分开；下一步为阅读建议，非硬性先修。",
+  "课程": [
+    {
+      "目录编号": "CKC-CAT-000001",
+      "名称": "数学与形式科学",
+      "森林课程编号": "CKF-LESSON-000001",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000001.md",
+      "导读": "区分证明、计算与经验检验；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分证明、计算与经验检验",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004"
+      ],
+      "建议后续": [
+        "CKC-CAT-000002"
+      ],
+      "来源编号": [
+        "B001",
+        "R001"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000002",
+      "名称": "基础数学",
+      "森林课程编号": "CKF-LESSON-000002",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000002.md",
+      "导读": "用数的结构检查运算与单位；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用数的结构检查运算与单位",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003"
+      ],
+      "建议后续": [
+        "CKC-CAT-000001"
+      ],
+      "来源编号": [
+        "B002"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000003",
+      "名称": "代数学",
+      "森林课程编号": "CKF-LESSON-000003",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000003.md",
+      "导读": "理解等式变形与代数结构；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解等式变形与代数结构",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004"
+      ],
+      "建议后续": [
+        "CKC-CAT-000001"
+      ],
+      "来源编号": [
+        "B001",
+        "R001"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000004",
+      "名称": "几何学",
+      "森林课程编号": "CKF-LESSON-000004",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000004.md",
+      "导读": "从图形关系建立证明；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "从图形关系建立证明",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-008",
+        "CKC-LEARN-009"
+      ],
+      "建议后续": [
+        "CKC-CAT-000001"
+      ],
+      "来源编号": [
+        "B001",
+        "R001"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000005",
+      "名称": "分析学",
+      "森林课程编号": "CKF-LESSON-000005",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000005.md",
+      "导读": "区分局部变化率与区间累计；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分局部变化率与区间累计",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000001"
+      ],
+      "来源编号": [
+        "B002"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000006",
+      "名称": "概率论与数理统计",
+      "森林课程编号": "CKF-LESSON-000006",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000006.md",
+      "导读": "区分概率模型、样本与总体推断；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分概率模型、样本与总体推断",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000001"
+      ],
+      "来源编号": [
+        "B013"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000007",
+      "名称": "逻辑与形式方法",
+      "森林课程编号": "CKF-LESSON-000007",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000007.md",
+      "导读": "识别有效推理和形式规格；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "识别有效推理和形式规格",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000001"
+      ],
+      "来源编号": [
+        "B001",
+        "R001"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000008",
+      "名称": "应用数学",
+      "森林课程编号": "CKF-LESSON-000008",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000008.md",
+      "导读": "把现实约束写成可求解模型；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把现实约束写成可求解模型",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000001"
+      ],
+      "来源编号": [
+        "B003"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000009",
+      "名称": "自然科学",
+      "森林课程编号": "CKF-LESSON-000009",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000009.md",
+      "导读": "区分物理化学生物地学解释层次；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分物理化学生物地学解释层次",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000010"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000010",
+      "名称": "物理学",
+      "森林课程编号": "CKF-LESSON-000010",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000010.md",
+      "导读": "用力与能量分析运动；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用力与能量分析运动",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000009"
+      ],
+      "来源编号": [
+        "B002"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000011",
+      "名称": "化学",
+      "森林课程编号": "CKF-LESSON-000011",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000011.md",
+      "导读": "用粒子和守恒解释化学反应；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用粒子和守恒解释化学反应",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000009"
+      ],
+      "来源编号": [
+        "B005"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000012",
+      "名称": "天文学",
+      "森林课程编号": "CKF-LESSON-000012",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000012.md",
+      "导读": "理解光谱红移与宇宙尺度；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解光谱红移与宇宙尺度",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-009",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000009"
+      ],
+      "来源编号": [
+        "B004"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000013",
+      "名称": "地球科学",
+      "森林课程编号": "CKF-LESSON-000013",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000013.md",
+      "导读": "解释地球圈层与长短时间过程；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "解释地球圈层与长短时间过程",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000009"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000014",
+      "名称": "海洋科学",
+      "森林课程编号": "CKF-LESSON-000014",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000014.md",
+      "导读": "理解海水密度分层与循环；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解海水密度分层与循环",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000009"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000015",
+      "名称": "大气科学",
+      "森林课程编号": "CKF-LESSON-000015",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000015.md",
+      "导读": "区分天气过程和气候统计；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分天气过程和气候统计",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000009"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000016",
+      "名称": "自然科学交叉研究",
+      "森林课程编号": "CKF-LESSON-000016",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000016.md",
+      "导读": "组织不同学科的共同问题；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "组织不同学科的共同问题",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000009"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000017",
+      "名称": "生命科学",
+      "森林课程编号": "CKF-LESSON-000017",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000017.md",
+      "导读": "把遗传信息、细胞功能与环境联系起来；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把遗传信息、细胞功能与环境联系起来",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000018"
+      ],
+      "来源编号": [
+        "B005",
+        "R002"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000018",
+      "名称": "生物化学",
+      "森林课程编号": "CKF-LESSON-000018",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000018.md",
+      "导读": "理解酶、代谢与能量耦合；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解酶、代谢与能量耦合",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000017"
+      ],
+      "来源编号": [
+        "B005",
+        "R002"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000019",
+      "名称": "分子生物学",
+      "森林课程编号": "CKF-LESSON-000019",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000019.md",
+      "导读": "区分复制、转录与翻译；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分复制、转录与翻译",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000017"
+      ],
+      "来源编号": [
+        "B005",
+        "R002"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000020",
+      "名称": "细胞生物学",
+      "森林课程编号": "CKF-LESSON-000020",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000020.md",
+      "导读": "解释膜、细胞器和运输；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "解释膜、细胞器和运输",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000017"
+      ],
+      "来源编号": [
+        "B005",
+        "R002"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000021",
+      "名称": "遗传学",
+      "森林课程编号": "CKF-LESSON-000021",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000021.md",
+      "导读": "区分基因型、表现型与遗传概率；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分基因型、表现型与遗传概率",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000017"
+      ],
+      "来源编号": [
+        "B005",
+        "R002",
+        "R007"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000022",
+      "名称": "生理学",
+      "森林课程编号": "CKF-LESSON-000022",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000022.md",
+      "导读": "用稳态和反馈解释身体调节；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用稳态和反馈解释身体调节",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000017"
+      ],
+      "来源编号": [
+        "B021"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000023",
+      "名称": "神经科学",
+      "森林课程编号": "CKF-LESSON-000023",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000023.md",
+      "导读": "理解神经信号与脑研究的尺度；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解神经信号与脑研究的尺度",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000017"
+      ],
+      "来源编号": [
+        "B005"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000024",
+      "名称": "生态与进化",
+      "森林课程编号": "CKF-LESSON-000024",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000024.md",
+      "导读": "区分个体适应与群体进化；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分个体适应与群体进化",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000017"
+      ],
+      "来源编号": [
+        "B011"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000025",
+      "名称": "医学与健康",
+      "森林课程编号": "CKF-LESSON-000025",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000025.md",
+      "导读": "区分健康结局、风险与医疗服务；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分健康结局、风险与医疗服务",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000026"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000026",
+      "名称": "基础医学",
+      "森林课程编号": "CKF-LESSON-000026",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000026.md",
+      "导读": "把结构、功能与病理变化分开；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把结构、功能与病理变化分开",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000025"
+      ],
+      "来源编号": [
+        "B005",
+        "R002"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000027",
+      "名称": "临床医学",
+      "森林课程编号": "CKF-LESSON-000027",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000027.md",
+      "导读": "理解临床问题与对照结局；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解临床问题与对照结局",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000025"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000028",
+      "名称": "诊断与检验",
+      "森林课程编号": "CKF-LESSON-000028",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000028.md",
+      "导读": "用自然频数理解检测误差；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用自然频数理解检测误差",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000025"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000029",
+      "名称": "药学与治疗",
+      "森林课程编号": "CKF-LESSON-000029",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000029.md",
+      "导读": "区分药物作用与体内过程；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分药物作用与体内过程",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000025"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000030",
+      "名称": "公共卫生",
+      "森林课程编号": "CKF-LESSON-000030",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000030.md",
+      "导读": "从个体病例转向人群分布；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "从个体病例转向人群分布",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000025"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000031",
+      "名称": "医疗工程",
+      "森林课程编号": "CKF-LESSON-000031",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000031.md",
+      "导读": "理解医疗设备从信号到临床用途；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解医疗设备从信号到临床用途",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000025"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000032",
+      "名称": "医疗卫生体系",
+      "森林课程编号": "CKF-LESSON-000032",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000032.md",
+      "导读": "分析卫生服务的覆盖、质量与公平；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "分析卫生服务的覆盖、质量与公平",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000025"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000033",
+      "名称": "计算与信息科学",
+      "森林课程编号": "CKF-LESSON-000033",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000033.md",
+      "导读": "区分信息表示、计算和系统实现；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分信息表示、计算和系统实现",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000034"
+      ],
+      "来源编号": [
+        "B007"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000034",
+      "名称": "计算机理论",
+      "森林课程编号": "CKF-LESSON-000034",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000034.md",
+      "导读": "理解可计算性与复杂度的区别；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解可计算性与复杂度的区别",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-005",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B001",
+        "R001"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000035",
+      "名称": "软件工程",
+      "森林课程编号": "CKF-LESSON-000035",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000035.md",
+      "导读": "把需求、实现和验证连接起来；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把需求、实现和验证连接起来",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B008"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000036",
+      "名称": "人工智能",
+      "森林课程编号": "CKF-LESSON-000036",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000036.md",
+      "导读": "理解学习、泛化与评价；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解学习、泛化与评价",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B007",
+        "R001",
+        "R002"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000037",
+      "名称": "数据科学",
+      "森林课程编号": "CKF-LESSON-000037",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000037.md",
+      "导读": "把数据质量放在建模之前；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把数据质量放在建模之前",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B013"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000038",
+      "名称": "网络与分布式系统",
+      "森林课程编号": "CKF-LESSON-000038",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000038.md",
+      "导读": "理解消息延迟、重复和一致性；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解消息延迟、重复和一致性",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B008"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000039",
+      "名称": "信息安全",
+      "森林课程编号": "CKF-LESSON-000039",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000039.md",
+      "导读": "区分认证、授权与风险控制；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分认证、授权与风险控制",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B008"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000040",
+      "名称": "人机交互",
+      "森林课程编号": "CKF-LESSON-000040",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000040.md",
+      "导读": "用任务成功和可访问性评价界面；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用任务成功和可访问性评价界面",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-017"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B009"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000041",
+      "名称": "边缘智能",
+      "森林课程编号": "CKF-LESSON-000041",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000041.md",
+      "导读": "理解边缘推理的时延与资源取舍；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解边缘推理的时延与资源取舍",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-013",
+        "CKC-LEARN-012",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000033"
+      ],
+      "来源编号": [
+        "B007"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000042",
+      "名称": "工程与技术",
+      "森林课程编号": "CKF-LESSON-000042",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000042.md",
+      "导读": "把科学原理转化为可验收系统；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把科学原理转化为可验收系统",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000043"
+      ],
+      "来源编号": [
+        "B010"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000043",
+      "名称": "机械工程",
+      "森林课程编号": "CKF-LESSON-000043",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000043.md",
+      "导读": "用受力和运动约束分析机械；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用受力和运动约束分析机械",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B002"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000044",
+      "名称": "电子与电气工程",
+      "森林课程编号": "CKF-LESSON-000044",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000044.md",
+      "导读": "区分电压、电流、功率和能量；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分电压、电流、功率和能量",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-012"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B002"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000045",
+      "名称": "通信工程",
+      "森林课程编号": "CKF-LESSON-000045",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000045.md",
+      "导读": "理解带宽、噪声与传输可靠性；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解带宽、噪声与传输可靠性",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B008"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000046",
+      "名称": "材料工程",
+      "森林课程编号": "CKF-LESSON-000046",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000046.md",
+      "导读": "解释材料结构、加工和性能联系；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "解释材料结构、加工和性能联系",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B010"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000047",
+      "名称": "能源工程",
+      "森林课程编号": "CKF-LESSON-000047",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000047.md",
+      "导读": "用功率、能量和效率分析能源；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用功率、能量和效率分析能源",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-012"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B010"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000048",
+      "名称": "土木建筑工程",
+      "森林课程编号": "CKF-LESSON-000048",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000048.md",
+      "导读": "理解荷载路径与建筑环境；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解荷载路径与建筑环境",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B003"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000049",
+      "名称": "制造工程",
+      "森林课程编号": "CKF-LESSON-000049",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000049.md",
+      "导读": "区分制造能力、质量与过程波动；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分制造能力、质量与过程波动",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B017"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000050",
+      "名称": "生物医学工程",
+      "森林课程编号": "CKF-LESSON-000050",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000050.md",
+      "导读": "连接生物问题与工程验证；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "连接生物问题与工程验证",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014",
+        "CKC-LEARN-011",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000042"
+      ],
+      "来源编号": [
+        "B006"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000051",
+      "名称": "环境与农业",
+      "森林课程编号": "CKF-LESSON-000051",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000051.md",
+      "导读": "把环境质量与农业生产共同核算；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把环境质量与农业生产共同核算",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000052"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "环境与农业"
+    },
+    {
+      "目录编号": "CKC-CAT-000052",
+      "名称": "环境科学",
+      "森林课程编号": "CKF-LESSON-000052",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000052.md",
+      "导读": "区分排放、浓度与暴露；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分排放、浓度与暴露",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000051"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "环境与农业"
+    },
+    {
+      "目录编号": "CKC-CAT-000053",
+      "名称": "农业科学",
+      "森林课程编号": "CKF-LESSON-000053",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000053.md",
+      "导读": "理解土壤养分、作物和田间试验；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解土壤养分、作物和田间试验",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000051"
+      ],
+      "来源编号": [
+        "B026",
+        "R004"
+      ],
+      "领域": "环境与农业"
+    },
+    {
+      "目录编号": "CKC-CAT-000054",
+      "名称": "林业科学",
+      "森林课程编号": "CKF-LESSON-000054",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000054.md",
+      "导读": "区分森林面积、质量和功能；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分森林面积、质量和功能",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000051"
+      ],
+      "来源编号": [
+        "B011",
+        "R004"
+      ],
+      "领域": "环境与农业"
+    },
+    {
+      "目录编号": "CKC-CAT-000055",
+      "名称": "渔业科学",
+      "森林课程编号": "CKF-LESSON-000055",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000055.md",
+      "导读": "理解鱼群补充、捕捞与资源状态；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解鱼群补充、捕捞与资源状态",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000051"
+      ],
+      "来源编号": [
+        "B012",
+        "R004"
+      ],
+      "领域": "环境与农业"
+    },
+    {
+      "目录编号": "CKC-CAT-000056",
+      "名称": "食品科学",
+      "森林课程编号": "CKF-LESSON-000056",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000056.md",
+      "导读": "区分食品危害、风险与质量；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分食品危害、风险与质量",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000051"
+      ],
+      "来源编号": [
+        "B025"
+      ],
+      "领域": "环境与农业"
+    },
+    {
+      "目录编号": "CKC-CAT-000057",
+      "名称": "自然资源与可持续发展",
+      "森林课程编号": "CKF-LESSON-000057",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000057.md",
+      "导读": "理解可持续性的时间与分配维度；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解可持续性的时间与分配维度",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000051"
+      ],
+      "来源编号": [
+        "B003",
+        "R004"
+      ],
+      "领域": "环境与农业"
+    },
+    {
+      "目录编号": "CKC-CAT-000058",
+      "名称": "社会与行为",
+      "森林课程编号": "CKF-LESSON-000058",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000058.md",
+      "导读": "分清个人动机、互动关系和社会结构；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "分清个人动机、互动关系和社会结构",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-017",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000059"
+      ],
+      "来源编号": [
+        "B015",
+        "R005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000059",
+      "名称": "社会学",
+      "森林课程编号": "CKF-LESSON-000059",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000059.md",
+      "导读": "用角色、规范与制度解释互动；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用角色、规范与制度解释互动",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-017",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000058"
+      ],
+      "来源编号": [
+        "B015"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000060",
+      "名称": "心理学",
+      "森林课程编号": "CKF-LESSON-000060",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000060.md",
+      "导读": "区分心理构念、测量和因果；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分心理构念、测量和因果",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000058"
+      ],
+      "来源编号": [
+        "B014",
+        "R005",
+        "R007"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000061",
+      "名称": "教育学",
+      "森林课程编号": "CKF-LESSON-000061",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000061.md",
+      "导读": "区分教学活动、学习结果与机会公平；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分教学活动、学习结果与机会公平",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017"
+      ],
+      "建议后续": [
+        "CKC-CAT-000058"
+      ],
+      "来源编号": [
+        "B023"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000062",
+      "名称": "人口学",
+      "森林课程编号": "CKF-LESSON-000062",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000062.md",
+      "导读": "用出生死亡迁移解释人口变化；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用出生死亡迁移解释人口变化",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000058"
+      ],
+      "来源编号": [
+        "B013"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000063",
+      "名称": "传播与媒体",
+      "森林课程编号": "CKF-LESSON-000063",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000063.md",
+      "导读": "区分传播内容、渠道与受众效果；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分传播内容、渠道与受众效果",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-017",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000058"
+      ],
+      "来源编号": [
+        "B024"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000064",
+      "名称": "人类学",
+      "森林课程编号": "CKF-LESSON-000064",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000064.md",
+      "导读": "理解文化情境与民族志；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解文化情境与民族志",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-017",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000058"
+      ],
+      "来源编号": [
+        "B020"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000065",
+      "名称": "社会工作",
+      "森林课程编号": "CKF-LESSON-000065",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000065.md",
+      "导读": "把个人支持与环境资源联系起来；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把个人支持与环境资源联系起来",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-017",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000058"
+      ],
+      "来源编号": [
+        "B015"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000066",
+      "名称": "政治法律与治理",
+      "森林课程编号": "CKF-LESSON-000066",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000066.md",
+      "导读": "区分政治选择、法律规则与行政执行；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分政治选择、法律规则与行政执行",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000067"
+      ],
+      "来源编号": [
+        "B016",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000067",
+      "名称": "政治学",
+      "森林课程编号": "CKF-LESSON-000067",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000067.md",
+      "导读": "用制度与激励解释政治行为；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用制度与激励解释政治行为",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000066"
+      ],
+      "来源编号": [
+        "B015"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000068",
+      "名称": "国际关系",
+      "森林课程编号": "CKF-LESSON-000068",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000068.md",
+      "导读": "理解相互依赖与国际合作难题；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解相互依赖与国际合作难题",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000066"
+      ],
+      "来源编号": [
+        "B019",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000069",
+      "名称": "法律",
+      "森林课程编号": "CKF-LESSON-000069",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000069.md",
+      "导读": "按主体、规则、事实和程序分析法律问题；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "按主体、规则、事实和程序分析法律问题",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000066"
+      ],
+      "来源编号": [
+        "B016"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000070",
+      "名称": "公共行政",
+      "森林课程编号": "CKF-LESSON-000070",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000070.md",
+      "导读": "分析行政组织的职责与服务链；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "分析行政组织的职责与服务链",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000066"
+      ],
+      "来源编号": [
+        "B015"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000071",
+      "名称": "公共政策",
+      "森林课程编号": "CKF-LESSON-000071",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000071.md",
+      "导读": "把政策目标转为可评价机制；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把政策目标转为可评价机制",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000066"
+      ],
+      "来源编号": [
+        "B023",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000072",
+      "名称": "国家安全",
+      "森林课程编号": "CKF-LESSON-000072",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000072.md",
+      "导读": "用风险、韧性和责任分析安全；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用风险、韧性和责任分析安全",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000066"
+      ],
+      "来源编号": [
+        "B008"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000073",
+      "名称": "国防与战略",
+      "森林课程编号": "CKF-LESSON-000073",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000073.md",
+      "导读": "区分目标、手段与战略假设；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分目标、手段与战略假设",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000066"
+      ],
+      "来源编号": [
+        "B015"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000074",
+      "名称": "经济商业与产业",
+      "森林课程编号": "CKF-LESSON-000074",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000074.md",
+      "导读": "区分市场交易、企业组织与产业结构；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分市场交易、企业组织与产业结构",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000075"
+      ],
+      "来源编号": [
+        "B019",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000075",
+      "名称": "宏观经济",
+      "森林课程编号": "CKF-LESSON-000075",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000075.md",
+      "导读": "理解总产出、价格与经济周期；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解总产出、价格与经济周期",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B018",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000076",
+      "名称": "微观经济",
+      "森林课程编号": "CKF-LESSON-000076",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000076.md",
+      "导读": "用边际变化分析选择与市场；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用边际变化分析选择与市场",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B019"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000077",
+      "名称": "金融学",
+      "森林课程编号": "CKF-LESSON-000077",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000077.md",
+      "导读": "区分收益、风险、流动性与估值；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分收益、风险、流动性与估值",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B018"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000078",
+      "名称": "企业管理",
+      "森林课程编号": "CKF-LESSON-000078",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000078.md",
+      "导读": "用目标、职责与反馈组织工作；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用目标、职责与反馈组织工作",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B017"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000079",
+      "名称": "产业经济",
+      "森林课程编号": "CKF-LESSON-000079",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000079.md",
+      "导读": "理解竞争、集中度与进入壁垒；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解竞争、集中度与进入壁垒",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B019",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000080",
+      "名称": "国际贸易",
+      "森林课程编号": "CKF-LESSON-000080",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000080.md",
+      "导读": "用机会成本理解比较优势；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用机会成本理解比较优势",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B019",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000081",
+      "名称": "劳动与就业",
+      "森林课程编号": "CKF-LESSON-000081",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000081.md",
+      "导读": "区分就业状态、工资与工作质量；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分就业状态、工资与工作质量",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B019"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000082",
+      "名称": "会计与审计",
+      "森林课程编号": "CKF-LESSON-000082",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000082.md",
+      "导读": "理解会计等式与审计证据；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解会计等式与审计证据",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023"
+      ],
+      "建议后续": [
+        "CKC-CAT-000074"
+      ],
+      "来源编号": [
+        "B017"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000083",
+      "名称": "人文历史与艺术",
+      "森林课程编号": "CKF-LESSON-000083",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000083.md",
+      "导读": "区分事实重建、意义解释和价值评价；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分事实重建、意义解释和价值评价",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000084"
+      ],
+      "来源编号": [
+        "B024",
+        "R003"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000084",
+      "名称": "哲学",
+      "森林课程编号": "CKF-LESSON-000084",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000084.md",
+      "导读": "辨认论证前提、结论与反例；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "辨认论证前提、结论与反例",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B022"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000085",
+      "名称": "历史学",
+      "森林课程编号": "CKF-LESSON-000085",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000085.md",
+      "导读": "通过来源批判重建历史；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "通过来源批判重建历史",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B020",
+        "R003"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000086",
+      "名称": "语言学",
+      "森林课程编号": "CKF-LESSON-000086",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000086.md",
+      "导读": "区分声音、形式、意义与使用；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分声音、形式、意义与使用",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B024",
+        "R003"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000087",
+      "名称": "文学",
+      "森林课程编号": "CKF-LESSON-000087",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000087.md",
+      "导读": "以叙述方式和文本细节支持阅读；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "以叙述方式和文本细节支持阅读",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B020"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000088",
+      "名称": "宗教研究",
+      "森林课程编号": "CKF-LESSON-000088",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000088.md",
+      "导读": "区分信仰立场与宗教学术研究；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分信仰立场与宗教学术研究",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B020"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000089",
+      "名称": "艺术学",
+      "森林课程编号": "CKF-LESSON-000089",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000089.md",
+      "导读": "从形式、媒介与语境分析艺术；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "从形式、媒介与语境分析艺术",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B024"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000090",
+      "名称": "文化遗产",
+      "森林课程编号": "CKF-LESSON-000090",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000090.md",
+      "导读": "理解遗产价值、保存与社区参与；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解遗产价值、保存与社区参与",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B020",
+        "R003"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000091",
+      "名称": "考古学",
+      "森林课程编号": "CKF-LESSON-000091",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000091.md",
+      "导读": "用出土关系而非孤立物件解释过去；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "用出土关系而非孤立物件解释过去",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005"
+      ],
+      "建议后续": [
+        "CKC-CAT-000083"
+      ],
+      "来源编号": [
+        "B020",
+        "R003"
+      ],
+      "领域": "人文历史与艺术"
+    },
+    {
+      "目录编号": "CKC-CAT-000092",
+      "名称": "生活与公共服务",
+      "森林课程编号": "CKF-LESSON-000092",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000092.md",
+      "导读": "把生活需求转成可达的公共服务；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把生活需求转成可达的公共服务",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000093"
+      ],
+      "来源编号": [
+        "B009"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000093",
+      "名称": "衣食住行",
+      "森林课程编号": "CKF-LESSON-000093",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000093.md",
+      "导读": "按功能、全成本和条件比较生活选择；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "按功能、全成本和条件比较生活选择",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B025"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000094",
+      "名称": "交通出行",
+      "森林课程编号": "CKF-LESSON-000094",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000094.md",
+      "导读": "比较门到门时间与交通系统影响；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "比较门到门时间与交通系统影响",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B010"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000095",
+      "名称": "旅行与地理",
+      "森林课程编号": "CKF-LESSON-000095",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000095.md",
+      "导读": "理解地图比例、空间尺度与旅行信息；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解地图比例、空间尺度与旅行信息",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B003"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000096",
+      "名称": "体育运动",
+      "森林课程编号": "CKF-LESSON-000096",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000096.md",
+      "导读": "区分活动量、强度与训练适应；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分活动量、强度与训练适应",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-017",
+        "CKC-LEARN-020"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B021"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000097",
+      "名称": "家政与生活服务",
+      "森林课程编号": "CKF-LESSON-000097",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000097.md",
+      "导读": "把家务与照护服务拆成可验收任务；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "把家务与照护服务拆成可验收任务",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B025"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000098",
+      "名称": "公共设施",
+      "森林课程编号": "CKF-LESSON-000098",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000098.md",
+      "导读": "理解设施供给、维护与使用能力；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解设施供给、维护与使用能力",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B009"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000099",
+      "名称": "消费者权益",
+      "森林课程编号": "CKF-LESSON-000099",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000099.md",
+      "导读": "区分宣传、合同、证据与救济渠道；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "区分宣传、合同、证据与救济渠道",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B016"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000100",
+      "名称": "数字生活",
+      "森林课程编号": "CKF-LESSON-000100",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000100.md",
+      "导读": "理解账号、数据与数字服务依赖；以本主题专属例子练习概念、比较与推理。",
+      "目标": [
+        "理解账号、数据与数字服务依赖",
+        "独立说明例题条件并完成两道练习"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-023",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000092"
+      ],
+      "来源编号": [
+        "B008"
+      ],
+      "领域": "生活与公共服务"
+    },
+    {
+      "目录编号": "CKC-CAT-000101",
+      "名称": "内科学",
+      "森林课程编号": "CKF-LESSON-000101",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000101.md",
+      "导读": "把症状、体征、检查与疾病假设分开，建立内科问题清单",
+      "目标": [
+        "把症状、体征、检查与疾病假设分开，建立内科问题清单",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000102"
+      ],
+      "来源编号": [
+        "T002"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000102",
+      "名称": "外科学",
+      "森林课程编号": "CKF-LESSON-000102",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000102.md",
+      "导读": "理解手术适应证、围手术期和安全核对的关系",
+      "目标": [
+        "理解手术适应证、围手术期和安全核对的关系",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000103"
+      ],
+      "来源编号": [
+        "T007"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000103",
+      "名称": "妇产科学",
+      "森林课程编号": "CKF-LESSON-000103",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000103.md",
+      "导读": "用生理阶段和分母理解妇产科问题",
+      "目标": [
+        "用生理阶段和分母理解妇产科问题",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000104"
+      ],
+      "来源编号": [
+        "T005"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000104",
+      "名称": "儿科学",
+      "森林课程编号": "CKF-LESSON-000104",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000104.md",
+      "导读": "解释儿童年龄分层、发育轨迹与成人外推的限制",
+      "目标": [
+        "解释儿童年龄分层、发育轨迹与成人外推的限制",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000105"
+      ],
+      "来源编号": [
+        "T006"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000105",
+      "名称": "神经病学",
+      "森林课程编号": "CKF-LESSON-000105",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000105.md",
+      "导读": "区分神经功能定位与病因判断",
+      "目标": [
+        "区分神经功能定位与病因判断",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000106"
+      ],
+      "来源编号": [
+        "T002"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000106",
+      "名称": "精神医学",
+      "森林课程编号": "CKF-LESSON-000106",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000106.md",
+      "导读": "理解精神症状、持续时间与功能影响",
+      "目标": [
+        "理解精神症状、持续时间与功能影响",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014",
+        "CKC-LEARN-017"
+      ],
+      "建议后续": [
+        "CKC-CAT-000107"
+      ],
+      "来源编号": [
+        "T004"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000107",
+      "名称": "皮肤病学",
+      "森林课程编号": "CKF-LESSON-000107",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000107.md",
+      "导读": "按形态、分布与时间描述皮肤问题",
+      "目标": [
+        "按形态、分布与时间描述皮肤问题",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000108"
+      ],
+      "来源编号": [
+        "T011"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000108",
+      "名称": "急诊与重症医学",
+      "森林课程编号": "CKF-LESSON-000108",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000108.md",
+      "导读": "理解急重症的时间优先级和器官功能",
+      "目标": [
+        "理解急重症的时间优先级和器官功能",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000109"
+      ],
+      "来源编号": [
+        "T012"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000109",
+      "名称": "心血管内科",
+      "森林课程编号": "CKF-LESSON-000109",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000109.md",
+      "导读": "用流量与压力理解心血管系统",
+      "目标": [
+        "用流量与压力理解心血管系统",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000110"
+      ],
+      "来源编号": [
+        "T002"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000110",
+      "名称": "呼吸内科",
+      "森林课程编号": "CKF-LESSON-000110",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000110.md",
+      "导读": "区分通气、气体交换与血氧读数",
+      "目标": [
+        "区分通气、气体交换与血氧读数",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000111"
+      ],
+      "来源编号": [
+        "T003"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000111",
+      "名称": "消化内科",
+      "森林课程编号": "CKF-LESSON-000111",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000111.md",
+      "导读": "把消化、吸收和代谢分成连续步骤",
+      "目标": [
+        "把消化、吸收和代谢分成连续步骤",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000112"
+      ],
+      "来源编号": [
+        "T009"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000112",
+      "名称": "内分泌与代谢",
+      "森林课程编号": "CKF-LESSON-000112",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000112.md",
+      "导读": "理解激素负反馈和代谢稳态",
+      "目标": [
+        "理解激素负反馈和代谢稳态",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000113"
+      ],
+      "来源编号": [
+        "T001"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000113",
+      "名称": "肾脏内科",
+      "森林课程编号": "CKF-LESSON-000113",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000113.md",
+      "导读": "用过滤与重吸收理解肾脏功能",
+      "目标": [
+        "用过滤与重吸收理解肾脏功能",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000114"
+      ],
+      "来源编号": [
+        "T008"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000114",
+      "名称": "血液内科",
+      "森林课程编号": "CKF-LESSON-000114",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000114.md",
+      "导读": "区分血液细胞数量、功能与产生过程",
+      "目标": [
+        "区分血液细胞数量、功能与产生过程",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000115"
+      ],
+      "来源编号": [
+        "T010"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000115",
+      "名称": "连续血糖监测",
+      "森林课程编号": "CKF-LESSON-000115",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000115.md",
+      "导读": "从临床资料阅读角度理解连续血糖曲线",
+      "目标": [
+        "从临床资料阅读角度理解连续血糖曲线",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000116"
+      ],
+      "来源编号": [
+        "T001"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000116",
+      "名称": "临床监测与随访",
+      "森林课程编号": "CKF-LESSON-000116",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000116.md",
+      "导读": "设计能追踪变化且保留缺失信息的随访记录",
+      "目标": [
+        "设计能追踪变化且保留缺失信息的随访记录",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000117"
+      ],
+      "来源编号": [
+        "T001",
+        "T022"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000117",
+      "名称": "生物传感器",
+      "森林课程编号": "CKF-LESSON-000117",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000117.md",
+      "导读": "把生物识别、物理转换与数字估计分成三层",
+      "目标": [
+        "把生物识别、物理转换与数字估计分成三层",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000118"
+      ],
+      "来源编号": [
+        "T001"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000118",
+      "名称": "连续血糖监测",
+      "森林课程编号": "CKF-LESSON-000118",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000118.md",
+      "导读": "从传感工程角度分析CGM的延迟、漂移和误差",
+      "目标": [
+        "从传感工程角度分析CGM的延迟、漂移和误差",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000119"
+      ],
+      "来源编号": [
+        "T001"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000119",
+      "名称": "健康监测应用",
+      "森林课程编号": "CKF-LESSON-000119",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000119.md",
+      "导读": "将健康监测应用拆成数据、解释和行动三个层次",
+      "目标": [
+        "将健康监测应用拆成数据、解释和行动三个层次",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000120"
+      ],
+      "来源编号": [
+        "T022"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000120",
+      "名称": "连续血糖监测",
+      "森林课程编号": "CKF-LESSON-000120",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000120.md",
+      "导读": "从边缘软件角度处理CGM时间戳、断连和告警状态",
+      "目标": [
+        "从边缘软件角度处理CGM时间戳、断连和告警状态",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000121"
+      ],
+      "来源编号": [
+        "T001",
+        "T022"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000121",
+      "名称": "数与比例及单位换算",
+      "森林课程编号": "CKF-LESSON-000121",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000121.md",
+      "导读": "用量纲和比例完成可检查的单位换算",
+      "目标": [
+        "用量纲和比例完成可检查的单位换算",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004"
+      ],
+      "建议后续": [
+        "CKC-CAT-000122"
+      ],
+      "来源编号": [
+        "T013"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000122",
+      "名称": "方程变量与函数图像",
+      "森林课程编号": "CKF-LESSON-000122",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000122.md",
+      "导读": "将文字关系转为变量方程并读懂图像",
+      "目标": [
+        "将文字关系转为变量方程并读懂图像",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004"
+      ],
+      "建议后续": [
+        "CKC-CAT-000123"
+      ],
+      "来源编号": [
+        "T015"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000123",
+      "名称": "三角函数与周期量",
+      "森林课程编号": "CKF-LESSON-000123",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000123.md",
+      "导读": "用相位、频率和振幅描述周期变化",
+      "目标": [
+        "用相位、频率和振幅描述周期变化",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-009"
+      ],
+      "建议后续": [
+        "CKC-CAT-000124"
+      ],
+      "来源编号": [
+        "T018"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000124",
+      "名称": "向量与矩阵基础",
+      "森林课程编号": "CKF-LESSON-000124",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000124.md",
+      "导读": "把多个量组织成向量并完成矩阵乘法",
+      "目标": [
+        "把多个量组织成向量并完成矩阵乘法",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-008"
+      ],
+      "建议后续": [
+        "CKC-CAT-000125"
+      ],
+      "来源编号": [
+        "T014"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000125",
+      "名称": "矩阵分解与最小二乘",
+      "森林课程编号": "CKF-LESSON-000125",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000125.md",
+      "导读": "理解最小二乘为何是投影以及分解的作用",
+      "目标": [
+        "理解最小二乘为何是投影以及分解的作用",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-008"
+      ],
+      "建议后续": [
+        "CKC-CAT-000126"
+      ],
+      "来源编号": [
+        "T014"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000126",
+      "名称": "坐标系与空间旋转",
+      "森林课程编号": "CKF-LESSON-000126",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000126.md",
+      "导读": "理解坐标变化与真实物体运动的区别",
+      "目标": [
+        "理解坐标变化与真实物体运动的区别",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-008",
+        "CKC-LEARN-009"
+      ],
+      "建议后续": [
+        "CKC-CAT-000127"
+      ],
+      "来源编号": [
+        "T014"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000127",
+      "名称": "极限导数与变化率",
+      "森林课程编号": "CKF-LESSON-000127",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000127.md",
+      "导读": "从平均变化理解导数的局部意义",
+      "目标": [
+        "从平均变化理解导数的局部意义",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000128"
+      ],
+      "来源编号": [
+        "T015"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000128",
+      "名称": "积分与能量累计",
+      "森林课程编号": "CKF-LESSON-000128",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000128.md",
+      "导读": "把积分理解为带单位的小块累计",
+      "目标": [
+        "把积分理解为带单位的小块累计",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000129"
+      ],
+      "来源编号": [
+        "T015"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000129",
+      "名称": "多元微积分与优化前置",
+      "森林课程编号": "CKF-LESSON-000129",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000129.md",
+      "导读": "用偏导数理解多变量函数和梯度方向",
+      "目标": [
+        "用偏导数理解多变量函数和梯度方向",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000130"
+      ],
+      "来源编号": [
+        "T016"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000130",
+      "名称": "常微分方程与动态系统",
+      "森林课程编号": "CKF-LESSON-000130",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000130.md",
+      "导读": "从变化规则建立常微分方程",
+      "目标": [
+        "从变化规则建立常微分方程",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000131"
+      ],
+      "来源编号": [
+        "T018",
+        "T015"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000131",
+      "名称": "概率与随机变量基础",
+      "森林课程编号": "CKF-LESSON-000131",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000131.md",
+      "导读": "区分一次随机结果与概率分布",
+      "目标": [
+        "区分一次随机结果与概率分布",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000132"
+      ],
+      "来源编号": [
+        "T017",
+        "T041"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000132",
+      "名称": "条件概率与贝叶斯推断",
+      "森林课程编号": "CKF-LESSON-000132",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000132.md",
+      "导读": "用自然频数理解贝叶斯更新",
+      "目标": [
+        "用自然频数理解贝叶斯更新",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000133"
+      ],
+      "来源编号": [
+        "T017",
+        "T041"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000133",
+      "名称": "抽样估计与置信区间",
+      "森林课程编号": "CKF-LESSON-000133",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000133.md",
+      "导读": "理解样本均值的不确定性和区间含义",
+      "目标": [
+        "理解样本均值的不确定性和区间含义",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000134"
+      ],
+      "来源编号": [
+        "T017",
+        "T041",
+        "T037"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000134",
+      "名称": "统计检验与效应量",
+      "森林课程编号": "CKF-LESSON-000134",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000134.md",
+      "导读": "同时解释统计检验、效应大小与实际意义",
+      "目标": [
+        "同时解释统计检验、效应大小与实际意义",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000135"
+      ],
+      "来源编号": [
+        "T017",
+        "T041",
+        "T037"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000135",
+      "名称": "回归与实验设计",
+      "森林课程编号": "CKF-LESSON-000135",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000135.md",
+      "导读": "区分回归预测和实验因果识别",
+      "目标": [
+        "区分回归预测和实验因果识别",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000136"
+      ],
+      "来源编号": [
+        "T016",
+        "T017",
+        "T041"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000136",
+      "名称": "时间序列与自相关",
+      "森林课程编号": "CKF-LESSON-000136",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000136.md",
+      "导读": "识别时间顺序、自相关和预测泄漏",
+      "目标": [
+        "识别时间顺序、自相关和预测泄漏",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000137"
+      ],
+      "来源编号": [
+        "T018",
+        "T017"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000137",
+      "名称": "数值方法与近似误差",
+      "森林课程编号": "CKF-LESSON-000137",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000137.md",
+      "导读": "区分模型误差、截断误差与舍入误差",
+      "目标": [
+        "区分模型误差、截断误差与舍入误差",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000138"
+      ],
+      "来源编号": [
+        "T015",
+        "T016"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000138",
+      "名称": "约束优化基础",
+      "森林课程编号": "CKF-LESSON-000138",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000138.md",
+      "导读": "把目标函数和可行约束分别写清",
+      "目标": [
+        "把目标函数和可行约束分别写清",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-010"
+      ],
+      "建议后续": [
+        "CKC-CAT-000139"
+      ],
+      "来源编号": [
+        "T016"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000139",
+      "名称": "傅里叶分析与频域",
+      "森林课程编号": "CKF-LESSON-000139",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000139.md",
+      "导读": "把时间波形理解为不同频率的叠加",
+      "目标": [
+        "把时间波形理解为不同频率的叠加",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013"
+      ],
+      "建议后续": [
+        "CKC-CAT-000140"
+      ],
+      "来源编号": [
+        "T018"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000140",
+      "名称": "采样混叠与数字滤波",
+      "森林课程编号": "CKF-LESSON-000140",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000140.md",
+      "导读": "解释采样混叠与模拟抗混叠的必要性",
+      "目标": [
+        "解释采样混叠与模拟抗混叠的必要性",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013"
+      ],
+      "建议后续": [
+        "CKC-CAT-000141"
+      ],
+      "来源编号": [
+        "T018"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000141",
+      "名称": "状态空间与状态估计",
+      "森林课程编号": "CKF-LESSON-000141",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000141.md",
+      "导读": "用隐藏状态解释观测与系统演化",
+      "目标": [
+        "用隐藏状态解释观测与系统演化",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-008",
+        "CKC-LEARN-011",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000142"
+      ],
+      "来源编号": [
+        "T018",
+        "T014"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000142",
+      "名称": "卡尔曼滤波与传感融合数学",
+      "森林课程编号": "CKF-LESSON-000142",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000142.md",
+      "导读": "理解卡尔曼滤波的预测、创新与加权更新",
+      "目标": [
+        "理解卡尔曼滤波的预测、创新与加权更新",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-008",
+        "CKC-LEARN-011",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000143"
+      ],
+      "来源编号": [
+        "T014",
+        "T018"
+      ],
+      "领域": "数学与形式科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000143",
+      "名称": "力学与牛顿运动",
+      "森林课程编号": "CKF-LESSON-000143",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000143.md",
+      "导读": "从受力图推导运动变化",
+      "目标": [
+        "从受力图推导运动变化",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000144"
+      ],
+      "来源编号": [
+        "T020"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000144",
+      "名称": "刚体转动与力矩",
+      "森林课程编号": "CKF-LESSON-000144",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000144.md",
+      "导读": "用力臂解释相同力为何产生不同转动效果",
+      "目标": [
+        "用力臂解释相同力为何产生不同转动效果",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000145"
+      ],
+      "来源编号": [
+        "T020"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000145",
+      "名称": "机械振动与共振",
+      "森林课程编号": "CKF-LESSON-000145",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000145.md",
+      "导读": "解释弹簧质量系统、阻尼与共振",
+      "目标": [
+        "解释弹簧质量系统、阻尼与共振",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000146"
+      ],
+      "来源编号": [
+        "T034"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000146",
+      "名称": "电磁学与电荷电流",
+      "森林课程编号": "CKF-LESSON-000146",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000146.md",
+      "导读": "区分电荷、电流、电场与电势差",
+      "目标": [
+        "区分电荷、电流、电场与电势差",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-012"
+      ],
+      "建议后续": [
+        "CKC-CAT-000147"
+      ],
+      "来源编号": [
+        "T036"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000147",
+      "名称": "电磁波与无线传播",
+      "森林课程编号": "CKF-LESSON-000147",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000147.md",
+      "导读": "理解波长、频率和传播环境的关系",
+      "目标": [
+        "理解波长、频率和传播环境的关系",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000148"
+      ],
+      "来源编号": [
+        "T034",
+        "T021"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000148",
+      "名称": "光学与声学基础",
+      "森林课程编号": "CKF-LESSON-000148",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000148.md",
+      "导读": "用波动观点比较光与声音的测量",
+      "目标": [
+        "用波动观点比较光与声音的测量",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000149"
+      ],
+      "来源编号": [
+        "T034"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000149",
+      "名称": "热学能量与传热",
+      "森林课程编号": "CKF-LESSON-000149",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000149.md",
+      "导读": "用能量守恒区分温度、热量和散热路径",
+      "目标": [
+        "用能量守恒区分温度、热量和散热路径",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011"
+      ],
+      "建议后续": [
+        "CKC-CAT-000150"
+      ],
+      "来源编号": [
+        "T013"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000150",
+      "名称": "物理测量与误差传播",
+      "森林课程编号": "CKF-LESSON-000150",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000150.md",
+      "导读": "将测量不确定性传播到计算结果",
+      "目标": [
+        "将测量不确定性传播到计算结果",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000151"
+      ],
+      "来源编号": [
+        "T013"
+      ],
+      "领域": "自然科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000151",
+      "名称": "电路原理与元件基础",
+      "森林课程编号": "CKF-LESSON-000151",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000151.md",
+      "导读": "识别电阻、电容、电感与电路节点",
+      "目标": [
+        "识别电阻、电容、电感与电路节点",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013"
+      ],
+      "建议后续": [
+        "CKC-CAT-000152"
+      ],
+      "来源编号": [
+        "T019"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000152",
+      "名称": "欧姆定律与电路分析",
+      "森林课程编号": "CKF-LESSON-000152",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000152.md",
+      "导读": "结合欧姆定律和守恒关系分析简单网络",
+      "目标": [
+        "结合欧姆定律和守恒关系分析简单网络",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013"
+      ],
+      "建议后续": [
+        "CKC-CAT-000153"
+      ],
+      "来源编号": [
+        "T019"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000153",
+      "名称": "模拟电子与放大器",
+      "森林课程编号": "CKF-LESSON-000153",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000153.md",
+      "导读": "理解放大器的增益、偏置与饱和",
+      "目标": [
+        "理解放大器的增益、偏置与饱和",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013"
+      ],
+      "建议后续": [
+        "CKC-CAT-000154"
+      ],
+      "来源编号": [
+        "T019"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000154",
+      "名称": "数字电子与时钟时序",
+      "森林课程编号": "CKF-LESSON-000154",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000154.md",
+      "导读": "用建立保持时间理解数字时序",
+      "目标": [
+        "用建立保持时间理解数字时序",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013"
+      ],
+      "建议后续": [
+        "CKC-CAT-000155"
+      ],
+      "来源编号": [
+        "T019"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000155",
+      "名称": "模数转换与信号调理",
+      "森林课程编号": "CKF-LESSON-000155",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000155.md",
+      "导读": "区分ADC分辨率、采样率和有效精度",
+      "目标": [
+        "区分ADC分辨率、采样率和有效精度",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013"
+      ],
+      "建议后续": [
+        "CKC-CAT-000156"
+      ],
+      "来源编号": [
+        "T019",
+        "T018"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000156",
+      "名称": "嵌入式处理器与中断",
+      "森林课程编号": "CKF-LESSON-000156",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000156.md",
+      "导读": "理解处理器、外设、中断与实时约束",
+      "目标": [
+        "理解处理器、外设、中断与实时约束",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000157"
+      ],
+      "来源编号": [
+        "T031"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000157",
+      "名称": "设备接口与通信总线",
+      "森林课程编号": "CKF-LESSON-000157",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000157.md",
+      "导读": "比较串行总线的时钟、寻址与错误检测",
+      "目标": [
+        "比较串行总线的时钟、寻址与错误检测",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000158"
+      ],
+      "来源编号": [
+        "T019",
+        "T043",
+        "T044",
+        "T045"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000158",
+      "名称": "电路板布局与电磁兼容",
+      "森林课程编号": "CKF-LESSON-000158",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000158.md",
+      "导读": "理解电流回路、去耦与电磁兼容",
+      "目标": [
+        "理解电流回路、去耦与电磁兼容",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000159"
+      ],
+      "来源编号": [
+        "T036"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000159",
+      "名称": "电源转换与电池安全",
+      "森林课程编号": "CKF-LESSON-000159",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000159.md",
+      "导读": "用效率与故障边界理解电源转换和电池",
+      "目标": [
+        "用效率与故障边界理解电源转换和电池",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000160"
+      ],
+      "来源编号": [
+        "T019"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000160",
+      "名称": "低功耗采集与待机",
+      "森林课程编号": "CKF-LESSON-000160",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000160.md",
+      "导读": "用占空比分析唤醒与待机能耗",
+      "目标": [
+        "用占空比分析唤醒与待机能耗",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000161"
+      ],
+      "来源编号": [
+        "T031"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000161",
+      "名称": "传感器测量链路",
+      "森林课程编号": "CKF-LESSON-000161",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000161.md",
+      "导读": "建立从被测物理量到应用数值的测量链",
+      "目标": [
+        "建立从被测物理量到应用数值的测量链",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000162"
+      ],
+      "来源编号": [
+        "T013",
+        "T019"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000162",
+      "名称": "惯性与姿态传感",
+      "森林课程编号": "CKF-LESSON-000162",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000162.md",
+      "导读": "理解加速度计和陀螺仪的互补信息",
+      "目标": [
+        "理解加速度计和陀螺仪的互补信息",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000163"
+      ],
+      "来源编号": [
+        "T014",
+        "T018"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000163",
+      "名称": "生理电信号采集",
+      "森林课程编号": "CKF-LESSON-000163",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000163.md",
+      "导读": "理解生理电信号与电极界面",
+      "目标": [
+        "理解生理电信号与电极界面",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000164"
+      ],
+      "来源编号": [
+        "T019",
+        "T022"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000164",
+      "名称": "触觉压力与温度传感",
+      "森林课程编号": "CKF-LESSON-000164",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000164.md",
+      "导读": "比较压力、触觉与温度传感的物理意义",
+      "目标": [
+        "比较压力、触觉与温度传感的物理意义",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-005",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000165"
+      ],
+      "来源编号": [
+        "T035"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000165",
+      "名称": "无线通信与编码基础",
+      "森林课程编号": "CKF-LESSON-000165",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000165.md",
+      "导读": "区分信道、编码、误码与有效载荷",
+      "目标": [
+        "区分信道、编码、误码与有效载荷",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000166"
+      ],
+      "来源编号": [
+        "T021"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000166",
+      "名称": "蓝牙低功耗与设备协作",
+      "森林课程编号": "CKF-LESSON-000166",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000166.md",
+      "导读": "理解BLE发现、连接与应用状态的分工",
+      "目标": [
+        "理解BLE发现、连接与应用状态的分工",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000167"
+      ],
+      "来源编号": [
+        "T021"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000167",
+      "名称": "天线与无线链路预算",
+      "森林课程编号": "CKF-LESSON-000167",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000167.md",
+      "导读": "用分贝账本理解无线链路余量",
+      "目标": [
+        "用分贝账本理解无线链路余量",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015"
+      ],
+      "建议后续": [
+        "CKC-CAT-000168"
+      ],
+      "来源编号": [
+        "T021",
+        "T034"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000168",
+      "名称": "机械机构与关节运动",
+      "森林课程编号": "CKF-LESSON-000168",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000168.md",
+      "导读": "用自由度和几何约束理解机构运动",
+      "目标": [
+        "用自由度和几何约束理解机构运动",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000169"
+      ],
+      "来源编号": [
+        "T020",
+        "T035"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000169",
+      "名称": "执行器动力学与反馈控制",
+      "森林课程编号": "CKF-LESSON-000169",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000169.md",
+      "导读": "理解执行器、反馈误差和控制稳定性",
+      "目标": [
+        "理解执行器、反馈误差和控制稳定性",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000170"
+      ],
+      "来源编号": [
+        "T018"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000170",
+      "名称": "穿戴机构的人体工学",
+      "森林课程编号": "CKF-LESSON-000170",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000170.md",
+      "导读": "将人体工学理解为身体、任务与环境的匹配",
+      "目标": [
+        "将人体工学理解为身体、任务与环境的匹配",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000171"
+      ],
+      "来源编号": [
+        "T035"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000171",
+      "名称": "柔性电子材料与封装",
+      "森林课程编号": "CKF-LESSON-000171",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000171.md",
+      "导读": "区分柔性、可拉伸与封装可靠性",
+      "目标": [
+        "区分柔性、可拉伸与封装可靠性",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000172"
+      ],
+      "来源编号": [
+        "T035"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000172",
+      "名称": "可穿戴设备能量预算",
+      "森林课程编号": "CKF-LESSON-000172",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000172.md",
+      "导读": "把整机续航拆成可复算的能量预算",
+      "目标": [
+        "把整机续航拆成可复算的能量预算",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000173"
+      ],
+      "来源编号": [
+        "T031"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000173",
+      "名称": "人体系统与生命体征基础",
+      "森林课程编号": "CKF-LESSON-000173",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000173.md",
+      "导读": "把生命体征看成生理系统的观察窗口",
+      "目标": [
+        "把生命体征看成生理系统的观察窗口",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000174"
+      ],
+      "来源编号": [
+        "T008",
+        "T003"
+      ],
+      "领域": "医学与健康"
+    },
+    {
+      "目录编号": "CKC-CAT-000174",
+      "名称": "神经肌肉控制基础",
+      "森林课程编号": "CKF-LESSON-000174",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000174.md",
+      "导读": "理解运动指令、感觉反馈与肌肉响应",
+      "目标": [
+        "理解运动指令、感觉反馈与肌肉响应",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000175"
+      ],
+      "来源编号": [
+        "T035"
+      ],
+      "领域": "生命科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000175",
+      "名称": "生理信号处理与伪迹",
+      "森林课程编号": "CKF-LESSON-000175",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000175.md",
+      "导读": "区分生理变化、运动伪迹与处理失真",
+      "目标": [
+        "区分生理变化、运动伪迹与处理失真",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000176"
+      ],
+      "来源编号": [
+        "T018",
+        "T022"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000176",
+      "名称": "穿戴测量标定与个体差异",
+      "森林课程编号": "CKF-LESSON-000176",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000176.md",
+      "导读": "区分设备标定、个体适配和独立验证",
+      "目标": [
+        "区分设备标定、个体适配和独立验证",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000177"
+      ],
+      "来源编号": [
+        "T013",
+        "T035"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000177",
+      "名称": "医疗穿戴设备风险与人因",
+      "森林课程编号": "CKF-LESSON-000177",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000177.md",
+      "导读": "用危害、使用错误和关键任务分析医疗穿戴风险",
+      "目标": [
+        "用危害、使用错误和关键任务分析医疗穿戴风险",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000178"
+      ],
+      "来源编号": [
+        "T022"
+      ],
+      "领域": "工程与技术"
+    },
+    {
+      "目录编号": "CKC-CAT-000178",
+      "名称": "算法数据结构与计算复杂度",
+      "森林课程编号": "CKF-LESSON-000178",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000178.md",
+      "导读": "用输入规模比较算法时间与存储成本",
+      "目标": [
+        "用输入规模比较算法时间与存储成本",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000179"
+      ],
+      "来源编号": [
+        "T033"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000179",
+      "名称": "设备软件测试与恢复",
+      "森林课程编号": "CKF-LESSON-000179",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000179.md",
+      "导读": "把软件测试与恢复能力连接起来",
+      "目标": [
+        "把软件测试与恢复能力连接起来",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007"
+      ],
+      "建议后续": [
+        "CKC-CAT-000180"
+      ],
+      "来源编号": [
+        "T042"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000180",
+      "名称": "机器学习训练与泛化",
+      "森林课程编号": "CKF-LESSON-000180",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000180.md",
+      "导读": "区分训练拟合、验证选择与测试泛化",
+      "目标": [
+        "区分训练拟合、验证选择与测试泛化",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000181"
+      ],
+      "来源编号": [
+        "T024",
+        "T041",
+        "R002"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000181",
+      "名称": "传感器时序机器学习",
+      "森林课程编号": "CKF-LESSON-000181",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000181.md",
+      "导读": "理解时序窗口、标签对齐与跨人泛化",
+      "目标": [
+        "理解时序窗口、标签对齐与跨人泛化",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000182"
+      ],
+      "来源编号": [
+        "T024",
+        "T031"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000182",
+      "名称": "强化学习与动作反馈",
+      "森林课程编号": "CKF-LESSON-000182",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000182.md",
+      "导读": "用状态、动作与回报理解强化学习",
+      "目标": [
+        "用状态、动作与回报理解强化学习",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000183"
+      ],
+      "来源编号": [
+        "T039",
+        "R001"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000183",
+      "名称": "具身智能与感知行动闭环",
+      "森林课程编号": "CKF-LESSON-000183",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000183.md",
+      "导读": "建立感知、状态、计划、行动与复核的闭环",
+      "目标": [
+        "建立感知、状态、计划、行动与复核的闭环",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000184"
+      ],
+      "来源编号": [
+        "T027",
+        "T029"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000184",
+      "名称": "非视觉传感融合与状态感知",
+      "森林课程编号": "CKF-LESSON-000184",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000184.md",
+      "导读": "理解非视觉传感融合的互补性与可观测性",
+      "目标": [
+        "理解非视觉传感融合的互补性与可观测性",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000185"
+      ],
+      "来源编号": [
+        "T027",
+        "T035"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000185",
+      "名称": "动作规划与反馈执行",
+      "森林课程编号": "CKF-LESSON-000185",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000185.md",
+      "导读": "把动作规划与反馈执行分开验证",
+      "目标": [
+        "把动作规划与反馈执行分开验证",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000186"
+      ],
+      "来源编号": [
+        "T029",
+        "T016"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000186",
+      "名称": "仿真与现实迁移",
+      "森林课程编号": "CKF-LESSON-000186",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000186.md",
+      "导读": "解释仿真到现实差距和随机化的作用",
+      "目标": [
+        "解释仿真到现实差距和随机化的作用",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-011",
+        "CKC-LEARN-013",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000187"
+      ],
+      "来源编号": [
+        "T026"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000187",
+      "名称": "端侧模型压缩与量化",
+      "森林课程编号": "CKF-LESSON-000187",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000187.md",
+      "导读": "区分量化、剪枝和知识蒸馏",
+      "目标": [
+        "区分量化、剪枝和知识蒸馏",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-005",
+        "CKC-LEARN-006"
+      ],
+      "建议后续": [
+        "CKC-CAT-000188"
+      ],
+      "来源编号": [
+        "T025",
+        "T040"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000188",
+      "名称": "端边设备协作与通信",
+      "森林课程编号": "CKF-LESSON-000188",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000188.md",
+      "导读": "按任务依赖划分设备端与边缘端职责",
+      "目标": [
+        "按任务依赖划分设备端与边缘端职责",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015",
+        "CKC-LEARN-011",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000189"
+      ],
+      "来源编号": [
+        "T030",
+        "T042"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000189",
+      "名称": "断连恢复与长期任务",
+      "森林课程编号": "CKF-LESSON-000189",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000189.md",
+      "导读": "用持久状态、确认和幂等设计断连恢复",
+      "目标": [
+        "用持久状态、确认和幂等设计断连恢复",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015",
+        "CKC-LEARN-011",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000190"
+      ],
+      "来源编号": [
+        "T042"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000190",
+      "名称": "穿戴设备端侧推理",
+      "森林课程编号": "CKF-LESSON-000190",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000190.md",
+      "导读": "把端侧推理作为完整管线而非单个模型",
+      "目标": [
+        "把端侧推理作为完整管线而非单个模型",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015",
+        "CKC-LEARN-011",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000191"
+      ],
+      "来源编号": [
+        "T031",
+        "T025"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000191",
+      "名称": "持续感知与事件驱动",
+      "森林课程编号": "CKF-LESSON-000191",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000191.md",
+      "导读": "理解事件驱动感知的节能与漏检折中",
+      "目标": [
+        "理解事件驱动感知的节能与漏检折中",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015",
+        "CKC-LEARN-011",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000192"
+      ],
+      "来源编号": [
+        "T031"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000192",
+      "名称": "长期运行个人智能体",
+      "森林课程编号": "CKF-LESSON-000192",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000192.md",
+      "导读": "区分长期智能体的目标、记忆、权限和真实进度",
+      "目标": [
+        "区分长期智能体的目标、记忆、权限和真实进度",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-007",
+        "CKC-LEARN-012",
+        "CKC-LEARN-013",
+        "CKC-LEARN-015",
+        "CKC-LEARN-011",
+        "CKC-LEARN-016"
+      ],
+      "建议后续": [
+        "CKC-CAT-000193"
+      ],
+      "来源编号": [
+        "T028",
+        "T032"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000193",
+      "名称": "穿戴交互与无障碍设计",
+      "森林课程编号": "CKF-LESSON-000193",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000193.md",
+      "导读": "从多感官与操作能力设计可访问的穿戴交互",
+      "目标": [
+        "从多感官与操作能力设计可访问的穿戴交互",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000194"
+      ],
+      "来源编号": [
+        "T023",
+        "T038"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000194",
+      "名称": "穿戴与生理数据隐私",
+      "森林课程编号": "CKF-LESSON-000194",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000194.md",
+      "导读": "按数据生命周期识别生理隐私风险",
+      "目标": [
+        "按数据生命周期识别生理隐私风险",
+        "完成本页两项练习并解释适用条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-004",
+        "CKC-LEARN-013",
+        "CKC-LEARN-014"
+      ],
+      "建议后续": [
+        "CKC-CAT-000178"
+      ],
+      "来源编号": [
+        "T032",
+        "T030"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000195",
+      "名称": "心理学入门与证据",
+      "森林课程编号": "CKF-LESSON-000195",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000195.md",
+      "导读": "心理学研究行为与心理过程，但不能直接读取别人的心。直觉像一个快速故事生成器，能提出问题，也容易只记住符合故事的事件。科学证据的关键是让别人知道观察了什么、怎样比较以及什么结果会推翻解释。",
+      "目标": [
+        "把心理断言改成可反驳的假设",
+        "区分经验与系统证据"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000196"
+      ],
+      "来源编号": [
+        "SE001",
+        "R005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000196",
+      "名称": "心理研究方法与问卷",
+      "森林课程编号": "CKF-LESSON-000196",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000196.md",
+      "导读": "问卷是把体验变成记录的接口。信度关心测量是否稳定一致，效度关心分数是否适合支持预定解释。一把每次都多报三厘米的尺子很稳定，却不能准确量身高。问卷题目应只问一个问题，并给时间范围。",
+      "目标": [
+        "写出单一清晰问项",
+        "辨认信度、效度与抽样问题"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000197"
+      ],
+      "来源编号": [
+        "SE017",
+        "R005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000197",
+      "名称": "认知注意记忆基础",
+      "森林课程编号": "CKF-LESSON-000197",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000197.md",
+      "导读": "注意像把有限处理资源分配给当前信息；记忆不是被动录像。编码是信息进入可利用形式，保持是跨时间保留，提取是需要时找回。熟悉感只意味着见过，不保证能自己说出或应用。",
+      "目标": [
+        "区分编码、保持与提取",
+        "设计检验记忆的学习任务"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000198"
+      ],
+      "来源编号": [
+        "SE002"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000198",
+      "名称": "情绪动机与调节基础",
+      "森林课程编号": "CKF-LESSON-000198",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000198.md",
+      "导读": "情绪包含体验、身体反应和行动倾向，动机则涉及追求或回避目标的方向与力度。紧张可以推动准备，也可以妨碍专注；不能简单给某情绪贴好坏标签。调节意味着改变与情绪互动的方式，不是要求自己立即没有感受。",
+      "目标": [
+        "分开情绪、动机与行动",
+        "选择与情境相称的调节步骤"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000199"
+      ],
+      "来源编号": [
+        "SE001",
+        "SE025"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000199",
+      "名称": "人格与个体差异基础",
+      "森林课程编号": "CKF-LESSON-000199",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000199.md",
+      "导读": "特质是跨时间、跨情境的相对倾向，状态是此时此刻的表现。维度像温度刻度，类型像把温度只分成冷热两格；分组方便交流，却丢失边界附近的信息。人格描述不是道德排名，也不是能力上限。",
+      "目标": [
+        "理解人格维度",
+        "避免由单次行为推断稳定特质"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000200"
+      ],
+      "来源编号": [
+        "SE003",
+        "R007"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000200",
+      "名称": "社会心理学基础",
+      "森林课程编号": "CKF-LESSON-000200",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000200.md",
+      "导读": "社会心理学问的是他人的存在、期待和关系如何改变判断与行动。群体不必实际在场，想象别人会怎么看也可能影响行为。核心不是背诵“人都从众”，而是说明何种情境、何种任务和何种群体产生何种变化。",
+      "目标": [
+        "解释个人与情境互动",
+        "设计社会影响的比较"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000201"
+      ],
+      "来源编号": [
+        "SE004",
+        "R005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000201",
+      "名称": "人际印象与归因偏差",
+      "森林课程编号": "CKF-LESSON-000201",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000201.md",
+      "导读": "归因是解释行为原因。看到别人迟到，我们容易想到“不负责”，而解释自己迟到时想到交通。这种不对称值得检查，但不能一见判断失误就给人贴“有偏差”的标签。行为背后既可能有个人倾向，也可能有约束。",
+      "目标": [
+        "区分行为事实与归因",
+        "检查情境替代解释"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000202"
+      ],
+      "来源编号": [
+        "SE004"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000202",
+      "名称": "社会角色与群体规范",
+      "森林课程编号": "CKF-LESSON-000202",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000202.md",
+      "导读": "角色是某位置附带的期待，规范是群体对可接受行为的共享判断，正式规则则通常有明确文本和执行程序。“大家都这样做”描述行为频率，“大家认为应该这样做”描述认可，两者不一定相同。",
+      "目标": [
+        "区分角色、规范与正式规则",
+        "识别规范冲突"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000203"
+      ],
+      "来源编号": [
+        "SE004"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000203",
+      "名称": "亲密关系与社会支持",
+      "森林课程编号": "CKF-LESSON-000203",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000203.md",
+      "导读": "社会支持包括情感理解、实际帮助、信息建议与共同参与。支持是否有用取决于需要和接受方式，帮助越多不一定越好。亲密关系中的回应性，是对方感到被理解和被尊重，不能用随时在线替代。",
+      "目标": [
+        "分辨支持类型",
+        "提出尊重自主性的支持请求"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000204"
+      ],
+      "来源编号": [
+        "SE004",
+        "SE026"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000204",
+      "名称": "数字社交与社会比较",
+      "森林课程编号": "CKF-LESSON-000204",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000204.md",
+      "导读": "社会比较是借他人信息评价自己。平台内容经过发布者选择与推荐系统筛选，看到的样本不是他人生活的随机切片。观看成功展示后形成落差，既可能与比较方式有关，也可能与当时状态和使用目的有关。",
+      "目标": [
+        "识别社交平台的选择性展示",
+        "拆开比较与使用方式"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000205"
+      ],
+      "来源编号": [
+        "SE001",
+        "R005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000205",
+      "名称": "沟通心理与社交技能",
+      "森林课程编号": "CKF-LESSON-000205",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000205.md",
+      "导读": "沟通不是把脑中的想法完整搬给别人，而是通过语言和情境让对方重建意义。表达者意图、实际措辞和接收者理解可能不同。社交技能可以拆成观察、提问、轮流发言和确认，不等于永远讨人喜欢。",
+      "目标": [
+        "把沟通拆成编码、渠道和理解",
+        "形成可检查请求"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000206"
+      ],
+      "来源编号": [
+        "SE004"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000206",
+      "名称": "倾听提问与澄清",
+      "森林课程编号": "CKF-LESSON-000206",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000206.md",
+      "导读": "倾听首先是接收信息，再检查理解。复述不是逐字模仿，而是用自己的话重建对方重点并允许纠正。开放问题让对方决定展开方向，封闭问题适合确认具体事实，两者都有用途。",
+      "目标": [
+        "练习复述与开放提问",
+        "避免诱导和过早解释"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000207"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000207",
+      "名称": "人际边界与自我表达",
+      "森林课程编号": "CKF-LESSON-000207",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000207.md",
+      "导读": "边界说明自己能够接受或参与什么，以及条件不满足时自己如何行动。它不是替别人制定所有行为。“我晚上九点后不处理非紧急工作消息”是自身安排，“你不能晚上发消息”则试图控制对方。",
+      "目标": [
+        "用可执行语言表达边界",
+        "区分请求与控制"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000208"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000208",
+      "名称": "冲突沟通与协商修复",
+      "森林课程编号": "CKF-LESSON-000208",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000208.md",
+      "导读": "立场是“我要什么方案”，利益是“这个方案满足什么需要”。冲突中双方可能坚持不同立场，却有可兼容的利益。修复既包含承认影响，也包含后续行为，单说抱歉不一定改变导致问题的流程。",
+      "目标": [
+        "把立场转换为利益",
+        "形成有验收条件的修复约定"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000209"
+      ],
+      "来源编号": [
+        "SE004",
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000209",
+      "名称": "社交压力与适应策略",
+      "森林课程编号": "CKF-LESSON-000209",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000209.md",
+      "导读": "社交压力可以来自评价、不确定规则、信息过载或缺少休息。适应不是变成最外向的人，而是在目标、能力和环境间找到可持续安排。回避短期可能降低不适，但是否妨碍重要目标要结合具体情境判断。",
+      "目标": [
+        "识别社交压力的触发与资源",
+        "制定渐进适应计划"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018"
+      ],
+      "建议后续": [
+        "CKC-CAT-000210"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000210",
+      "名称": "组织与职场心理基础",
+      "森林课程编号": "CKF-LESSON-000210",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000210.md",
+      "导读": "组织心理学研究人在工作制度中的行为和体验。绩效不是仅由努力决定，还受任务清晰度、协作依赖、工具和激励影响。把系统问题误当个人问题，会使培训增加而瓶颈依旧存在。",
+      "目标": [
+        "区分个人能力与工作设计",
+        "画出任务资源关系"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019"
+      ],
+      "建议后续": [
+        "CKC-CAT-000211"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000211",
+      "名称": "岗位角色与职场规则",
+      "森林课程编号": "CKF-LESSON-000211",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000211.md",
+      "导读": "岗位角色回答“对什么结果负责”，职责清单回答“做哪些事”，权限回答“能决定什么”。三者不匹配会产生角色模糊或角色冲突。了解职场规则需要查文本并询问实际流程，不能靠猜测同事行为。",
+      "目标": [
+        "澄清岗位责任和权限",
+        "区分正式流程与习惯"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019"
+      ],
+      "建议后续": [
+        "CKC-CAT-000212"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000212",
+      "名称": "团队合作与领导方式",
+      "森林课程编号": "CKF-LESSON-000212",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000212.md",
+      "导读": "团队合作要求成员的行动能衔接，而非只是所有人努力。共享目标、角色分工和反馈闭环分别解决方向、接口和纠错。领导方式需要放在任务不确定性、成员经验和风险要求中讨论，不能把一种风格奉为万能。",
+      "目标": [
+        "区分团队目标与个人任务",
+        "识别领导行为的情境条件"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019"
+      ],
+      "建议后续": [
+        "CKC-CAT-000213"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000213",
+      "名称": "职场沟通与反馈协商",
+      "森林课程编号": "CKF-LESSON-000213",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000213.md",
+      "导读": "反馈的作用是缩小当前行为与目标之间的差距。它需要具体行为、影响、目标和下一步；“不够专业”没有指出哪里可改。反馈也应容许接收者补充背景，否则可能把信息缺口当成能力缺陷。",
+      "目标": [
+        "写出行为型反馈",
+        "协商清楚的改进任务"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019"
+      ],
+      "建议后续": [
+        "CKC-CAT-000214"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000214",
+      "名称": "职业压力与倦怠风险",
+      "森林课程编号": "CKF-LESSON-000214",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000214.md",
+      "导读": "职业压力分析关注要求与可用资源是否匹配。倦怠在WHO框架中与长期未妥善处理的工作压力有关，但不能凭疲惫一天就给自己或同事下诊断。工作之外的因素也会影响状态，需要避免单因解释。",
+      "目标": [
+        "辨认职业压力的工作条件",
+        "区分风险识别与诊断"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019"
+      ],
+      "建议后续": [
+        "CKC-CAT-000215"
+      ],
+      "来源编号": [
+        "SE005",
+        "SE027"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000215",
+      "名称": "自主性与工作意义",
+      "森林课程编号": "CKF-LESSON-000215",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000215.md",
+      "导读": "自主性指在有边界的任务中拥有一定选择权，不等于没有目标或独自承担所有责任。工作意义可能来自贡献、学习、关系或生活保障，不要求每个岗位都承担人生使命。",
+      "目标": [
+        "分辨自主性与放任",
+        "把工作意义拆为可讨论因素"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-018",
+        "CKC-LEARN-019"
+      ],
+      "建议后续": [
+        "CKC-CAT-000216"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000216",
+      "名称": "自我认识与反思方法",
+      "森林课程编号": "CKF-LESSON-000216",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000216.md",
+      "导读": "反思是检查经验如何支持或挑战原有判断，而不只是重复责备自己。有效记录应保留行动、情境和结果。“我很失败”是整体评价，“今天两次任务切换后忘记进度”是能分析的事件。",
+      "目标": [
+        "用日志区分事实和解释",
+        "建立可修订的自我认识"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-020"
+      ],
+      "建议后续": [
+        "CKC-CAT-000217"
+      ],
+      "来源编号": [
+        "SE001",
+        "R005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000217",
+      "名称": "人格量表与解释限制",
+      "森林课程编号": "CKF-LESSON-000217",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000217.md",
+      "导读": "人格量表通过一组题目估计某些倾向。常模是用于比较的参考样本，不是人应当达到的标准。不同语言、年龄或场景下同一分数未必等义，解释前需要知道量表适用范围。",
+      "目标": [
+        "检查量表用途和常模",
+        "解释误差与分数变化"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-020"
+      ],
+      "建议后续": [
+        "CKC-CAT-000218"
+      ],
+      "来源编号": [
+        "SE003",
+        "SE017",
+        "R007"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000218",
+      "名称": "认知偏差与自我观察",
+      "森林课程编号": "CKF-LESSON-000218",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000218.md",
+      "导读": "认知偏差是某些判断过程中的系统性倾向，不是给别人贴“不理性”的标签。确认偏差表现为更容易寻找、解释或记住支持已有看法的信息。知道偏差名称也不会自动免疫。",
+      "目标": [
+        "识别确认偏差与事后解释",
+        "建立反证检查"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-020"
+      ],
+      "建议后续": [
+        "CKC-CAT-000219"
+      ],
+      "来源编号": [
+        "SE001",
+        "R005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000219",
+      "名称": "价值观目标与自我规划",
+      "森林课程编号": "CKF-LESSON-000219",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000219.md",
+      "导读": "价值描述重视的方向，目标描述希望达到的状态，行动描述现在能做什么。“重视学习”是价值，“读完一本书”是目标，“今晚读两页并写问题”是行动。把三层混淆，会让抽象愿望难以执行。",
+      "目标": [
+        "区分价值、目标与行动",
+        "处理多目标取舍"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-020"
+      ],
+      "建议后续": [
+        "CKC-CAT-000220"
+      ],
+      "来源编号": [
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000220",
+      "名称": "身份叙事与长期变化",
+      "森林课程编号": "CKF-LESSON-000220",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000220.md",
+      "导读": "身份叙事是把经历组织成“我是谁”的故事。故事提供连续感，也可能删去矛盾证据。一个人可以在保持重要价值的同时改变职业、兴趣和表达，不能把过去的一种选择当成终身定义。",
+      "目标": [
+        "区分经历与对经历的叙述",
+        "理解连续性和变化"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-020"
+      ],
+      "建议后续": [
+        "CKC-CAT-000221"
+      ],
+      "来源编号": [
+        "SE003",
+        "R007"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000221",
+      "名称": "性别认知与研究基础",
+      "森林课程编号": "CKF-LESSON-000221",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000221.md",
+      "导读": "性别研究中的第一步不是判断哪一组更怎样，而是问研究的概念和测量。身体特征、角色规范和自我认同可能被研究不同地记录，含混地统称“性别”会让解释失真。",
+      "目标": [
+        "识别性别研究的变量",
+        "区分描述差异与机制解释"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-021",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000222"
+      ],
+      "来源编号": [
+        "SE006"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000222",
+      "名称": "生理性别与社会性别概念",
+      "森林课程编号": "CKF-LESSON-000222",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000222.md",
+      "导读": "生理性别相关特征包含染色体、激素、生殖器官等不同维度；社会性别关注角色、规范和关系。讨论特定生物机制时要说具体特征，讨论制度时要说具体规则，不能用同一个标签代替所有解释。",
+      "目标": [
+        "分开身体维度与社会角色",
+        "避免单指标概括"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-021",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000223"
+      ],
+      "来源编号": [
+        "SE006"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000223",
+      "名称": "性别认同与性别表达",
+      "森林课程编号": "CKF-LESSON-000223",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000223.md",
+      "导读": "性别认同涉及个人对自身性别的内在体验，性别表达是外在呈现方式。表达可受审美、工作要求、安全和文化影响，因此不能从衣服或声音推出认同，也不能从认同推断兴趣和能力。",
+      "目标": [
+        "区分认同和表达",
+        "练习尊重本人信息边界"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-021",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000224"
+      ],
+      "来源编号": [
+        "SE006"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000224",
+      "名称": "性别社会化与刻板印象",
+      "森林课程编号": "CKF-LESSON-000224",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000224.md",
+      "导读": "社会化是人通过家庭、学校、媒体和同伴学习期待的过程。刻板印象把群体成员视作相同，常将描述性判断“通常怎样”滑向规定性判断“应当怎样”。即使某样本有平均差异，也不能由此规定个人选择。",
+      "目标": [
+        "解释社会化与刻板印象",
+        "区分平均经验和规范要求"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-021",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000225"
+      ],
+      "来源编号": [
+        "SE006"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000225",
+      "名称": "性别相关压力与社会支持",
+      "森林课程编号": "CKF-LESSON-000225",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000225.md",
+      "导读": "压力可能来自歧视、排斥、隐私威胁或服务障碍，而不能把某种身份本身等同于问题。支持需要听取本人目标，关注安全和选择权；公开身份是否合适由本人结合处境决定。",
+      "目标": [
+        "区分身份与压力来源",
+        "识别支持与暴露风险"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-021",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000226"
+      ],
+      "来源编号": [
+        "SE006",
+        "SE005"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000226",
+      "名称": "性别研究伦理与个体差异",
+      "森林课程编号": "CKF-LESSON-000226",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000226.md",
+      "导读": "研究伦理不只是签同意书。尊重要求理解与自愿，有利要求认真权衡风险与收益，公正要求合理分配参与负担和收益。涉及敏感资料时，收集最少必要信息通常比收集后再想保护更稳妥。",
+      "目标": [
+        "把研究伦理落实到字段和发布",
+        "处理小样本隐私"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-017",
+        "CKC-LEARN-021",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-022"
+      ],
+      "建议后续": [
+        "CKC-CAT-000227"
+      ],
+      "来源编号": [
+        "SE007",
+        "SE006"
+      ],
+      "领域": "社会与行为"
+    },
+    {
+      "目录编号": "CKC-CAT-000227",
+      "名称": "经济学基础与机会成本",
+      "森林课程编号": "CKF-LESSON-000227",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000227.md",
+      "导读": "稀缺意味着时间、资源和注意不能同时满足所有目标。机会成本是选择某方案时放弃的最佳可行替代，不是所有替代收益相加。沉没成本已经发生且无法收回，继续决策主要看从现在起的增量收益与成本。",
+      "目标": [
+        "计算机会成本",
+        "区分沉没成本与边际选择"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023"
+      ],
+      "建议后续": [
+        "CKC-CAT-000228"
+      ],
+      "来源编号": [
+        "SE018"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000228",
+      "名称": "供求机制与价格均衡",
+      "森林课程编号": "CKF-LESSON-000228",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000228.md",
+      "导读": "需求曲线表示其他条件不变时，各价格对应的愿买数量；供给曲线对应愿卖数量。价格自身变化通常是沿曲线移动，收入、成本或偏好变化则可能移动整条曲线。均衡是计划供需相等的状态，不自动等于公平或最优。",
+      "目标": [
+        "求线性供求均衡",
+        "区分沿曲线移动与曲线位移"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023"
+      ],
+      "建议后续": [
+        "CKC-CAT-000229"
+      ],
+      "来源编号": [
+        "SE018"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000229",
+      "名称": "信息不对称与市场失灵",
+      "森林课程编号": "CKF-LESSON-000229",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000229.md",
+      "导读": "信息不对称指交易双方掌握的信息不同。逆向选择通常发生在签约前，难辨质量影响谁愿交易；道德风险通常涉及签约后不可充分观察的行为。外部性则是交易影响未参与交易的人，机制不同。",
+      "目标": [
+        "区分逆向选择、道德风险与外部性",
+        "解释制度应对"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023"
+      ],
+      "建议后续": [
+        "CKC-CAT-000230"
+      ],
+      "来源编号": [
+        "SE016",
+        "SE018"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000230",
+      "名称": "宏观指标与统计口径",
+      "森林课程编号": "CKF-LESSON-000230",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000230.md",
+      "导读": "宏观指标需要统计边界。国内生产总值统计一定时期内的最终生产增加值，不是把每笔交易全加起来。名义量按当期价格计，实际量以价格调整尝试反映数量。人均值又加入人口分母，不能与总量互换。",
+      "目标": [
+        "区分名义与实际",
+        "核对同比环比及分母"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000231"
+      ],
+      "来源编号": [
+        "SE009",
+        "SE022",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000231",
+      "名称": "增长通胀就业基础",
+      "森林课程编号": "CKF-LESSON-000231",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000231.md",
+      "导读": "增长是产出随时间增加，通胀是总体价格水平持续变化的速度，就业涉及人是否参与并获得工作。三个指标可能方向不同：供给冲击可以推高价格并压低产出。通胀下降不等于价格回到原来水平。",
+      "目标": [
+        "计算通胀和失业率",
+        "区分增长速度与水平"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000232"
+      ],
+      "来源编号": [
+        "SE009",
+        "SE019",
+        "SE022",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000232",
+      "名称": "货币政策利率与信用传导",
+      "森林课程编号": "CKF-LESSON-000232",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000232.md",
+      "导读": "政策利率影响金融机构资金价格，再可能影响贷款、存款、资产估值、汇率和支出。链条不是即时机械传递：固定利率合同、银行风险判断、借款需求与预期都会改变速度。实际利率近似名义利率减预期通胀。",
+      "目标": [
+        "解释政策利率传导",
+        "区分名义与实际利率"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000233"
+      ],
+      "来源编号": [
+        "SE008",
+        "SE022"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000233",
+      "名称": "财政政策与总需求",
+      "森林课程编号": "CKF-LESSON-000233",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000233.md",
+      "导读": "财政政策通过支出、税收和转移改变公共资源配置及总需求。政府购买直接计入相应最终支出，转移支付改变居民可支配收入，并不在支付时自动等于新增产出。预算赤字也受经济周期影响，不全是主动政策变化。",
+      "目标": [
+        "区分政府购买与转移",
+        "推导简化财政乘数"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024"
+      ],
+      "建议后续": [
+        "CKC-CAT-000234"
+      ],
+      "来源编号": [
+        "SE010",
+        "SE022",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000234",
+      "名称": "信用与流动性周期",
+      "森林课程编号": "CKF-LESSON-000234",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000234.md",
+      "导读": "信用是获得资金并承诺未来偿还的关系，流动性是及时取得支付手段或成交的能力。资产总价值高也可能短期付不出现金；相反暂时有现金不代表长期偿付能力充足。信用扩张可能通过抵押品和预期形成反馈。",
+      "目标": [
+        "分清信用与流动性",
+        "解释抵押反馈循环"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027"
+      ],
+      "建议后续": [
+        "CKC-CAT-000235"
+      ],
+      "来源编号": [
+        "SE011"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000235",
+      "名称": "经济周期与市场状态",
+      "森林课程编号": "CKF-LESSON-000235",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000235.md",
+      "导读": "经济周期是活动的扩张与收缩过程，市场状态则描述资产价格、波动、信用条件等。资产价格反映未来预期，可能早于实体活动变化，也可能因风险溢价变化而背离。不能把股市涨跌直接等同经济好坏。",
+      "目标": [
+        "分开经济活动与资产价格",
+        "使用多指标描述周期"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027"
+      ],
+      "建议后续": [
+        "CKC-CAT-000236"
+      ],
+      "来源编号": [
+        "SE011",
+        "SE022",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000236",
+      "名称": "领先同步滞后指标",
+      "森林课程编号": "CKF-LESSON-000236",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000236.md",
+      "导读": "领先指标通常在目标变化前提供信息，同步指标近似同时变化，滞后指标在目标之后变化。分类依赖目标、时期与数据版本，不是指标永久属性。经济发生时间与数据公布时间还需要分开。",
+      "目标": [
+        "解释领先同步滞后",
+        "防止发布时点造成偷看未来"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027"
+      ],
+      "建议后续": [
+        "CKC-CAT-000237"
+      ],
+      "来源编号": [
+        "SE019",
+        "SE022"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000237",
+      "名称": "周期模型的失效与不确定性",
+      "森林课程编号": "CKF-LESSON-000237",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000237.md",
+      "导读": "周期模型把过去的规律压缩为预测关系。当制度、技术、人口结构或行为改变时，旧参数可能失效。模型不确定性指不知道哪种结构合适，参数不确定性指结构给定后数值仍估不准，两者都影响预测。",
+      "目标": [
+        "识别结构变化与模型误差",
+        "设计失效监测"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027"
+      ],
+      "建议后续": [
+        "CKC-CAT-000238"
+      ],
+      "来源编号": [
+        "SE022",
+        "SE011",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000238",
+      "名称": "金融市场与资产类型基础",
+      "森林课程编号": "CKF-LESSON-000238",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000238.md",
+      "导读": "金融资产是对未来支付或所有权的权利。股票代表一定所有权，债券代表合同债权，衍生合约的支付依赖某个基础变量。资产名称本身不保证安全，必须看条款、发行人和交易机制。",
+      "目标": [
+        "区分股权债权与衍生合约",
+        "追踪现金流和清偿顺序"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000239"
+      ],
+      "来源编号": [
+        "SE012",
+        "SE013"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000239",
+      "名称": "股票债券利率汇率基础",
+      "森林课程编号": "CKF-LESSON-000239",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000239.md",
+      "导读": "股票收益与企业剩余价值相关，债券支付受合同约定，利率是跨时间交换资金的价格，汇率是一种货币以另一种货币计价的比率。先写报价方向，否则升值贬值容易说反。",
+      "目标": [
+        "计算简单债券现值",
+        "理解利率和汇率报价"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000240"
+      ],
+      "来源编号": [
+        "SE013",
+        "SE008"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000240",
+      "名称": "收益波动相关性与分散化",
+      "森林课程编号": "CKF-LESSON-000240",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000240.md",
+      "导读": "收益描述价值变化，波动描述变化的离散程度，相关性描述两个序列线性共同变化。分散化依赖资产不完全同向，但相关性可能随市场状态改变；低历史相关不保证压力时仍低。",
+      "目标": [
+        "计算复利与组合方差",
+        "理解相关性限制"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000241"
+      ],
+      "来源编号": [
+        "SE012",
+        "SE013"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000241",
+      "名称": "贴现现金流与估值假设",
+      "森林课程编号": "CKF-LESSON-000241",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000241.md",
+      "导读": "贴现把未来现金流换成今天的等价值，原因包括时间机会成本和风险补偿。估值不是找到一个绝对真价，而是给定现金流、时点和贴现率后的条件计算。利润与自由现金流也不能随意互换。",
+      "目标": [
+        "推导贴现现值",
+        "检查增长率与终值敏感性"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000242"
+      ],
+      "来源编号": [
+        "SE013",
+        "SE012"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000242",
+      "名称": "行为金融与市场心理",
+      "森林课程编号": "CKF-LESSON-000242",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000242.md",
+      "导读": "行为金融研究心理过程与市场制度怎样共同影响决策和价格。偏差可以提出机制假设，但观察到亏损并不能证明存在某种偏差；信息限制、风险补偿和运气也是可能解释。有效研究应说明行为预测在什么条件下不同于替代理论。",
+      "目标": [
+        "区分标准模型与行为解释",
+        "避免用偏差事后解释一切"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026"
+      ],
+      "建议后续": [
+        "CKC-CAT-000243"
+      ],
+      "来源编号": [
+        "SE024",
+        "SE001"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000243",
+      "名称": "从众损失厌恶与过度自信",
+      "森林课程编号": "CKF-LESSON-000243",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000243.md",
+      "导读": "从众是选择趋同，损失厌恶关注相对参照点的损失与同量收益感受不对称，过度自信是信心超过实际准确度。三者不同，可能共同出现，但不能由“大家买同一资产”就断定全是盲从。",
+      "目标": [
+        "分辨从众、损失厌恶和过度自信",
+        "提出可区分预测"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026"
+      ],
+      "建议后续": [
+        "CKC-CAT-000244"
+      ],
+      "来源编号": [
+        "SE024",
+        "SE001"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000244",
+      "名称": "新闻传播与市场叙事",
+      "森林课程编号": "CKF-LESSON-000244",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000244.md",
+      "导读": "新闻提供事件信息，叙事把事件连接成有因果方向的故事。故事便于记忆和传播，却可能省略反例。市场价格可能对新信息反应，也可能对人们如何解释信息反应；热度不是事实可信度。",
+      "目标": [
+        "区分新闻事实、解释与叙事",
+        "追踪传播和价格预期"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026"
+      ],
+      "建议后续": [
+        "CKC-CAT-000245"
+      ],
+      "来源编号": [
+        "SE024"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000245",
+      "名称": "情绪代理指标与数据偏差",
+      "森林课程编号": "CKF-LESSON-000245",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000245.md",
+      "导读": "情绪无法直接用一个市场数字完整测量，因此研究使用搜索、文本或交易行为作代理。代理是间接线索，不是情绪本身。指标可能同时受到机器人、平台规则、用户构成和事件关注度影响。",
+      "目标": [
+        "解释代理变量",
+        "检查情绪数据的覆盖与漂移"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026"
+      ],
+      "建议后续": [
+        "CKC-CAT-000246"
+      ],
+      "来源编号": [
+        "SE014",
+        "SE024"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000246",
+      "名称": "资产配置与风险预算",
+      "森林课程编号": "CKF-LESSON-000246",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000246.md",
+      "导读": "资产配置决定资金分布，风险预算决定愿意让哪些风险贡献多少。等额投入不等于等风险，因为波动和相关性不同。目标、期限和流动性约束需在优化之前定义，否则数学上的最优可能无法执行。",
+      "目标": [
+        "区分资金权重与风险贡献",
+        "理解约束和风险预算"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000247"
+      ],
+      "来源编号": [
+        "SE023"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000247",
+      "名称": "最大回撤流动性与尾部风险",
+      "森林课程编号": "CKF-LESSON-000247",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000247.md",
+      "导读": "回撤是从过去峰值到当前值的下降比例，最大回撤是样本中最深的一次。它依赖观察区间和数据频率，不能表示未来最大可能亏损。尾部风险指低频但严重的结果，流动性压力可能在尾部事件中突然放大。",
+      "目标": [
+        "计算最大回撤",
+        "区分流动性与尾部损失"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000248"
+      ],
+      "来源编号": [
+        "SE013",
+        "SE023"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000248",
+      "名称": "再平衡与交易成本",
+      "森林课程编号": "CKF-LESSON-000248",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000248.md",
+      "导读": "再平衡是把偏离目标的权重调回既定范围，不等于预测下一阶段赢家。它会改变风险暴露，也可能产生手续费、价差、冲击和税务影响。频繁操作不必然更好，应区分日历规则与偏离阈值规则。",
+      "目标": [
+        "计算再平衡交易额",
+        "把成本纳入比较"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000249"
+      ],
+      "来源编号": [
+        "SE023"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000249",
+      "名称": "回测偏差与样本外验证",
+      "森林课程编号": "CKF-LESSON-000249",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000249.md",
+      "导读": "回测是假装在过去执行规则，关键是当时能知道什么。前视偏差使用尚未公开信息，幸存者偏差只保留今天仍存在对象，选择偏差只展示许多尝试中的赢家。三者都能让历史成绩看起来过好。",
+      "目标": [
+        "识别前视幸存者与选择偏差",
+        "设计时间顺序验证"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000250"
+      ],
+      "来源编号": [
+        "SE020"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000250",
+      "名称": "行业结构与竞争格局",
+      "森林课程编号": "CKF-LESSON-000250",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000250.md",
+      "导读": "行业结构描述参与者数量、替代性、进入退出和上下游关系。先定义市场边界，再谈集中度；同一公司在狭窄产品市场占比很高，在宽市场占比可能很低。市场份额不是利润的自动保证。",
+      "目标": [
+        "界定相关市场",
+        "分析进入壁垒与议价能力"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000251"
+      ],
+      "来源编号": [
+        "SE016",
+        "SE018",
+        "R006"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000251",
+      "名称": "行业生命周期与景气",
+      "森林课程编号": "CKF-LESSON-000251",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000251.md",
+      "导读": "生命周期描述产品或行业从探索、扩张到成熟的结构变化，景气描述相对短期的需求和盈利起伏。成熟行业仍会有技术更新，成长行业也可能短期过剩。不能把示意图当每个行业必经的固定时钟。",
+      "目标": [
+        "区分生命周期和短期景气",
+        "追踪需求库存与产能"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000252"
+      ],
+      "来源编号": [
+        "SE018",
+        "SE016"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000252",
+      "名称": "板块轮动与风格切换",
+      "森林课程编号": "CKF-LESSON-000252",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000252.md",
+      "导读": "板块按经济活动或分类聚合，风格按估值、规模、成长等特征聚合。行业上涨可能同时暴露于某种风格，不能把同一风险算两次。“轮动”只是相对表现改变，是否可预测需要检验。",
+      "目标": [
+        "分清行业与风格",
+        "把轮动叙事改成规则假设"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000253"
+      ],
+      "来源编号": [
+        "SE020"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000253",
+      "名称": "轮动假说的统计核验",
+      "森林课程编号": "CKF-LESSON-000253",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000253.md",
+      "导读": "统计核验先写一个没有轮动优势的零假设，再指定比较基准、时间范围和评价指标。看到某段领先交替并不罕见，随机序列也会出现看似有节奏的模式。研究重点是这种模式是否超出偶然与成本。",
+      "目标": [
+        "设定轮动的零假设",
+        "处理多重检验与样本外"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-006",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000254"
+      ],
+      "来源编号": [
+        "SE020"
+      ],
+      "领域": "经济商业与产业"
+    },
+    {
+      "目录编号": "CKC-CAT-000254",
+      "名称": "政治制度与市场激励",
+      "森林课程编号": "CKF-LESSON-000254",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000254.md",
+      "导读": "政治制度通过权利、承诺、问责和资源分配影响市场激励。纸面规则相同，执行能力和参与者权力不同，结果也可能不同。制度分析需要说明机制，不能用一个制度标签解释全部经济表现。",
+      "目标": [
+        "区分制度形式与功能",
+        "追踪激励和执行"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000255"
+      ],
+      "来源编号": [
+        "SE015",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000255",
+      "名称": "政治事件风险与市场预期",
+      "森林课程编号": "CKF-LESSON-000255",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000255.md",
+      "导读": "政治事件影响市场，通常通过预期现金流、贴现率或不确定性。重要的是新信息相对旧预期改变多少，而不是标题是否震撼。已经高度预期的结果也可能价格反应小；相同事件对不同企业影响方向不同。",
+      "目标": [
+        "区分事件发生与预期意外",
+        "解释风险溢价变化"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000256"
+      ],
+      "来源编号": [
+        "SE014",
+        "SE022",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000256",
+      "名称": "公共政策经济传导",
+      "森林课程编号": "CKF-LESSON-000256",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000256.md",
+      "导读": "公共政策通过改变价格、收入、约束和预期影响经济行为。传导是多步过程：政策文本改变激励，参与者响应，市场重新调整，结果再反馈到政策。直接受益者不一定是最终获益者。",
+      "目标": [
+        "画出政策传导链",
+        "分开直接与间接影响"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000257"
+      ],
+      "来源编号": [
+        "SE010",
+        "SE015",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000257",
+      "名称": "监管制度与产业政策",
+      "森林课程编号": "CKF-LESSON-000257",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000257.md",
+      "导读": "监管可针对安全、竞争、信息或外部性，产业政策则可能选择支持某些活动或能力。目标相近的工具也可能有不同副作用：准入限制能保证一定门槛，也可能保护在位企业。评价需同时看问题与替代工具。",
+      "目标": [
+        "区分监管目标和工具",
+        "分析产业政策的激励与退出"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000258"
+      ],
+      "来源编号": [
+        "SE016",
+        "SE015",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000258",
+      "名称": "政策情景分析与不确定性",
+      "森林课程编号": "CKF-LESSON-000258",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000258.md",
+      "导读": "情景是“如果这些条件发生，会怎样”的连贯描述，不必都赋精确概率。预测试图给最可能或加权结果，压力测试则故意研究不利情况。把最坏情景称为预测，会夸大确定性；只给基准又可能隐藏脆弱性。",
+      "目标": [
+        "构造条件情景",
+        "区分概率预测与稳健决策"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000259"
+      ],
+      "来源编号": [
+        "SE022",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000259",
+      "名称": "国际贸易与跨境资本",
+      "森林课程编号": "CKF-LESSON-000259",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000259.md",
+      "导读": "比较优势比较放弃另一产品的机会成本，而不是谁在所有产品上更快。贸易可以扩大总可用资源，但收益如何分配还受价格、工资、调整成本和制度影响。跨境资本流动则涉及资产与融资，不等同商品进出口。",
+      "目标": [
+        "推导比较优势",
+        "区分贸易流与资本流"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000260"
+      ],
+      "来源编号": [
+        "SE021",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000260",
+      "名称": "关税制裁与供应链冲击",
+      "森林课程编号": "CKF-LESSON-000260",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000260.md",
+      "导读": "关税通常按进口货值或数量征税，制裁可能涉及交易、金融、技术或主体限制，两者机制和法律依据不同。课堂只讨论抽象传导，具体限制必须查现行官方文本，不能从新闻标题推定适用范围。",
+      "目标": [
+        "区分关税与数量限制",
+        "追踪供应链成本传递"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000261"
+      ],
+      "来源编号": [
+        "SE021",
+        "SE022",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000261",
+      "名称": "地缘政治风险与定价预期",
+      "森林课程编号": "CKF-LESSON-000261",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000261.md",
+      "导读": "地缘风险包括冲突等事件及相关不确定性。新闻指数衡量报道中的风险内容，并非直接测得冲突概率。价格反应取决于暴露：能源进口者、出口者和运输企业可能受到不同现金流冲击。",
+      "目标": [
+        "解释地缘风险代理与风险溢价",
+        "避免指数决定论"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-005",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-025"
+      ],
+      "建议后续": [
+        "CKC-CAT-000262"
+      ],
+      "来源编号": [
+        "SE014",
+        "SE022",
+        "R006"
+      ],
+      "领域": "政治法律与治理"
+    },
+    {
+      "目录编号": "CKC-CAT-000262",
+      "名称": "因果推断与反事实基础",
+      "森林课程编号": "CKF-LESSON-000262",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000262.md",
+      "导读": "因果问题问同一对象在接受与不接受某措施时会有什么不同。两个潜在结果无法同时观察，这是因果推断的根本困难。观察到处理组与对照组差异，还可能来自组间原有差异，即混杂。",
+      "目标": [
+        "理解潜在结果与反事实",
+        "区分混杂和中介"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000263"
+      ],
+      "来源编号": [
+        "SE015",
+        "SE001",
+        "M004",
+        "M005"
+      ],
+      "领域": "计算与信息科学"
+    },
+    {
+      "目录编号": "CKC-CAT-000263",
+      "名称": "政策事件研究与时间序列",
+      "森林课程编号": "CKF-LESSON-000263",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000263.md",
+      "导读": "政策事件研究把特定日期前后变化与基准比较。金融事件研究常看异常收益，政策评估也可看多期处理效应；两者不应混称。时间序列存在趋势、季节和自相关，普通独立样本公式可能低估不确定性。",
+      "目标": [
+        "计算差分中的差分与异常变化",
+        "检查时间序列假设"
+      ],
+      "入门单元": [
+        "CKC-LEARN-001",
+        "CKC-LEARN-005",
+        "CKC-LEARN-002",
+        "CKC-LEARN-003",
+        "CKC-LEARN-006",
+        "CKC-LEARN-023",
+        "CKC-LEARN-004",
+        "CKC-LEARN-024",
+        "CKC-LEARN-017",
+        "CKC-LEARN-026",
+        "CKC-LEARN-027",
+        "CKC-LEARN-028"
+      ],
+      "建议后续": [
+        "CKC-CAT-000262"
+      ],
+      "来源编号": [
+        "SE022",
+        "SE020",
+        "M006",
+        "R006"
+      ],
+      "领域": "计算与信息科学"
+    }
+  ]
+}
