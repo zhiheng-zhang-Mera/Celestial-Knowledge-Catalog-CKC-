@@ -24,7 +24,7 @@
 
 团队合作要求成员的行动能衔接，而非只是所有人努力。共享目标、角色分工和反馈闭环分别解决方向、接口和纠错。领导方式需要放在任务不确定性、成员经验和风险要求中讨论，不能把一种风格奉为万能。
 
-**学习目标：** 区分团队目标与个人任务；识别领导行为的情境条件。
+**学习目标：** 解释互依与领导行为的区别和联系；按本课材料独立完成两条分析链并说明适用假设；完成六题与综合实践，保留不确定性和证据边界。
 
 **入门补课：** [如何开始](../../../../自学/单元/01-如何开始.md) → [证据与提问](../../../../自学/单元/05-证据与提问.md) → [心理与行为](../../../../自学/单元/17-心理与行为.md) → [社交与沟通](../../../../自学/单元/18-社交与沟通.md) → [职场与组织](../../../../自学/单元/19-职场与组织.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -34,6 +34,16 @@
 
 [社会与行为学习路线](../../../../自学/全领域路线/社会与行为.md) · [全目录学习表](../../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000212.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000212.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000212.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000212.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000212.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000212.md#核心论述与来源对应)
+
+本课实践产物：单双人任务依赖排程与图稿决策、变更记录。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 

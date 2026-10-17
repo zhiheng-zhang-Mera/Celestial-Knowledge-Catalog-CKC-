@@ -24,7 +24,7 @@
 
 比较优势比较放弃另一产品的机会成本，而不是谁在所有产品上更快。贸易可以扩大总可用资源，但收益如何分配还受价格、工资、调整成本和制度影响。跨境资本流动则涉及资产与融资，不等同商品进出口。
 
-**学习目标：** 推导比较优势；区分贸易流与资本流。
+**学习目标：** 解释比较优势与跨境资本的区别和联系；按本课材料独立完成两条分析链并说明适用假设；完成六题与综合实践，保留不确定性和证据边界。
 
 **入门补课：** [如何开始](../../../../自学/单元/01-如何开始.md) → [算术与分数](../../../../自学/单元/02-算术与分数.md) → [比例单位与百分比](../../../../自学/单元/03-比例单位与百分比.md) → [证据与提问](../../../../自学/单元/05-证据与提问.md) → [收支选择与市场](../../../../自学/单元/23-收支选择与市场.md) → [代数与图表](../../../../自学/单元/04-代数与图表.md) → [宏观货币与价格](../../../../自学/单元/24-宏观货币与价格.md) → [政治与政策](../../../../自学/单元/25-政治与政策.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -34,6 +34,16 @@
 
 [政治法律与治理学习路线](../../../../自学/全领域路线/政治法律与治理.md) · [全目录学习表](../../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000259.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000259.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000259.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000259.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000259.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000259.md#核心论述与来源对应)
+
+本课实践产物：专业化交换最终消费表与外币债务折算风险表。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 

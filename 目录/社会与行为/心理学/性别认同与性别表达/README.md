@@ -27,7 +27,7 @@
 
 性别认同涉及个人对自身性别的内在体验，性别表达是外在呈现方式。表达可受审美、工作要求、安全和文化影响，因此不能从衣服或声音推出认同，也不能从认同推断兴趣和能力。
 
-**学习目标：** 区分认同和表达；练习尊重本人信息边界。
+**学习目标：** 解释认同与表达的区别和联系；按本课材料独立完成两条分析链并说明适用假设；完成六题与综合实践，保留不确定性和证据边界。
 
 **入门补课：** [如何开始](../../../../自学/单元/01-如何开始.md) → [证据与提问](../../../../自学/单元/05-证据与提问.md) → [心理与行为](../../../../自学/单元/17-心理与行为.md) → [性别概念](../../../../自学/单元/21-性别概念.md) → [算术与分数](../../../../自学/单元/02-算术与分数.md) → [比例单位与百分比](../../../../自学/单元/03-比例单位与百分比.md) → [统计直觉](../../../../自学/单元/06-统计直觉.md) → [心理研究与量表](../../../../自学/单元/22-心理研究与量表.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -37,6 +37,16 @@
 
 [社会与行为学习路线](../../../../自学/全领域路线/社会与行为.md) · [全目录学习表](../../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000223.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000223.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000223.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000223.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000223.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000223.md#核心论述与来源对应)
+
+本课实践产物：名牌称呼确认、更正与有限访问沟通流程。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 

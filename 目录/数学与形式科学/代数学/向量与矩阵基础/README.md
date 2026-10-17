@@ -27,7 +27,7 @@
 
 把多个量组织成向量并完成矩阵乘法
 
-**学习目标：** 把多个量组织成向量并完成矩阵乘法；完成本页两项练习并解释适用条件。
+**学习目标：** 逐项计算点积长度与单位向量；按行列规则手算矩阵乘法；用同输入验证矩阵组合不交换。
 
 **入门补课：** [如何开始](../../../../自学/单元/01-如何开始.md) → [算术与分数](../../../../自学/单元/02-算术与分数.md) → [比例单位与百分比](../../../../自学/单元/03-比例单位与百分比.md) → [代数与图表](../../../../自学/单元/04-代数与图表.md) → [向量与矩阵](../../../../自学/单元/08-向量与矩阵.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -37,6 +37,16 @@
 
 [数学与形式科学学习路线](../../../../自学/全领域路线/数学与形式科学.md) · [全目录学习表](../../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000124.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000124.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000124.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000124.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000124.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000124.md#核心论述与来源对应)
+
+本课实践产物：点积与矩阵组合逐格工作纸。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 

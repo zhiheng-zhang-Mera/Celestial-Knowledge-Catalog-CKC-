@@ -28,7 +28,7 @@
 
 政策利率影响金融机构资金价格，再可能影响贷款、存款、资产估值、汇率和支出。链条不是即时机械传递：固定利率合同、银行风险判断、借款需求与预期都会改变速度。实际利率近似名义利率减预期通胀。
 
-**学习目标：** 解释政策利率传导；区分名义与实际利率。
+**学习目标：** 解释利率与传导的区别和联系；按本课材料独立完成两条分析链并说明适用假设；完成六题与综合实践，保留不确定性和证据边界。
 
 **入门补课：** [如何开始](../../../../自学/单元/01-如何开始.md) → [算术与分数](../../../../自学/单元/02-算术与分数.md) → [比例单位与百分比](../../../../自学/单元/03-比例单位与百分比.md) → [证据与提问](../../../../自学/单元/05-证据与提问.md) → [收支选择与市场](../../../../自学/单元/23-收支选择与市场.md) → [代数与图表](../../../../自学/单元/04-代数与图表.md) → [宏观货币与价格](../../../../自学/单元/24-宏观货币与价格.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -38,6 +38,16 @@
 
 [经济商业与产业学习路线](../../../../自学/全领域路线/经济商业与产业.md) · [全目录学习表](../../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000232.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000232.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000232.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000232.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000232.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000232.md#核心论述与来源对应)
+
+本课实践产物：利率重定价现金流表与信用传导机制图。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 

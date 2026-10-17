@@ -1,11 +1,27 @@
 {
   "date": "2026-10-17",
+  "systematic": {
+    "status": "PASS",
+    "courses": 263,
+    "added_han": 467304,
+    "diagrams": 263,
+    "declared_direct_alignments": 533,
+    "prerequisite_checks": 526,
+    "cross_course_prerequisite_edges": 0,
+    "semantic_notes": 0,
+    "scope": "全量验证声明、可定位性、结构与引用登记；直接支持和先修语义的正确性由编写及抽查判断，非逐句专家证明",
+    "not_run": [
+      "真人学习效果",
+      "263篇逐句专家审校",
+      "每个来源的完整内容复核"
+    ]
+  },
   "status": "PASS",
   "scope": "静态结构、链接与最低内容检查；不是逐句专业审校或学习效果验证",
   "catalog_count": 263,
   "course_count": 263,
-  "source_count": 111,
-  "distinct_source_urls": 111,
+  "source_count": 428,
+  "distinct_source_urls": 389,
   "source_years": [
     2023,
     2025,
@@ -27,18 +43,28 @@
     2006,
     2021,
     1979,
-    2012
+    2012,
+    2003,
+    1999,
+    1990,
+    2002,
+    2014,
+    1997,
+    1994,
+    2008,
+    2013,
+    1998
   ],
-  "nodes": 375,
-  "edges": 642,
+  "nodes": 692,
+  "edges": 1066,
   "historical_prerequisite_edges": 238,
   "entry_prerequisite_edges": 43,
   "protected_baselines": 6,
-  "checked_links": 9724,
+  "checked_links": 12481,
   "han_characters": {
-    "total": 357374,
-    "min": 1054,
-    "max": 1936
+    "total": 824678,
+    "min": 2678,
+    "max": 3698
   },
   "errors": [],
   "badLinks": [],

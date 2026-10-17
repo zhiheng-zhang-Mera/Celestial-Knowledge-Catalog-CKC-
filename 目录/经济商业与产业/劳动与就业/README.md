@@ -23,7 +23,7 @@
 
 区分就业状态、工资与工作质量；以本主题专属例子练习概念、比较与推理。
 
-**学习目标：** 区分就业状态、工资与工作质量；独立说明例题条件并完成两道练习。
+**学习目标：** 按明确调查口径区分就业、失业和非劳动力状态；同时计算失业率、参与率及就业人口比；解释状态流动怎样造成指标变化并保留工作质量问题。
 
 **入门补课：** [如何开始](../../../自学/单元/01-如何开始.md) → [证据与提问](../../../自学/单元/05-证据与提问.md) → [心理与行为](../../../自学/单元/17-心理与行为.md) → [社交与沟通](../../../自学/单元/18-社交与沟通.md) → [职场与组织](../../../自学/单元/19-职场与组织.md) → [算术与分数](../../../自学/单元/02-算术与分数.md) → [比例单位与百分比](../../../自学/单元/03-比例单位与百分比.md) → [收支选择与市场](../../../自学/单元/23-收支选择与市场.md) → [代数与图表](../../../自学/单元/04-代数与图表.md) → [宏观货币与价格](../../../自学/单元/24-宏观货币与价格.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -33,6 +33,16 @@
 
 [经济商业与产业学习路线](../../../自学/全领域路线/经济商业与产业.md) · [全目录学习表](../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000081.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000081.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000081.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000081.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000081.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000081.md#核心论述与来源对应)
+
+本课实践产物：两种劳动状态流动及三指标比较表。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 

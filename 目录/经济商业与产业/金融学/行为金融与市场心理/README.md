@@ -28,7 +28,7 @@
 
 行为金融研究心理过程与市场制度怎样共同影响决策和价格。偏差可以提出机制假设，但观察到亏损并不能证明存在某种偏差；信息限制、风险补偿和运气也是可能解释。有效研究应说明行为预测在什么条件下不同于替代理论。
 
-**学习目标：** 区分标准模型与行为解释；避免用偏差事后解释一切。
+**学习目标：** 解释参照点与决策记录的区别和联系；按本课材料独立完成两条分析链并说明适用假设；完成六题与综合实践，保留不确定性和证据边界。
 
 **入门补课：** [如何开始](../../../../自学/单元/01-如何开始.md) → [算术与分数](../../../../自学/单元/02-算术与分数.md) → [比例单位与百分比](../../../../自学/单元/03-比例单位与百分比.md) → [证据与提问](../../../../自学/单元/05-证据与提问.md) → [收支选择与市场](../../../../自学/单元/23-收支选择与市场.md) → [代数与图表](../../../../自学/单元/04-代数与图表.md) → [宏观货币与价格](../../../../自学/单元/24-宏观货币与价格.md) → [心理与行为](../../../../自学/单元/17-心理与行为.md) → [市场情绪与信息](../../../../自学/单元/26-市场情绪与信息.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -38,6 +38,16 @@
 
 [经济商业与产业学习路线](../../../../自学/全领域路线/经济商业与产业.md) · [全目录学习表](../../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000242.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000242.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000242.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000242.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000242.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000242.md#核心论述与来源对应)
+
+本课实践产物：参照点行为审查表与零价格变化交易成本路径表。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 

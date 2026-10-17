@@ -26,7 +26,7 @@
 
 理解消息延迟、重复和一致性；以本主题专属例子练习概念、比较与推理。
 
-**学习目标：** 理解消息延迟、重复和一致性；独立说明例题条件并完成两道练习。
+**学习目标：** 分析丢失响应后的不确定状态与重试风险；设计绑定请求意图的幂等键和保存期限。
 
 **入门补课：** [如何开始](../../../自学/单元/01-如何开始.md) → [算术与分数](../../../自学/单元/02-算术与分数.md) → [比例单位与百分比](../../../自学/单元/03-比例单位与百分比.md) → [代数与图表](../../../自学/单元/04-代数与图表.md) → [电脑与编程](../../../自学/单元/07-电脑与编程.md) → [电路与安全](../../../自学/单元/12-电路与安全.md) → [采样与信号](../../../自学/单元/13-采样与信号.md) → [嵌入式与通信](../../../自学/单元/15-嵌入式与通信.md)。先看正文直觉部分；遇到计算或术语障碍再回退对应单元。原有高阶前置用于后续推导与研究，不作为第一次阅读门槛。
 
@@ -36,6 +36,16 @@
 
 [计算与信息科学学习路线](../../../自学/全领域路线/计算与信息科学.md) · [全目录学习表](../../../自学/全目录学习表.md)。课程映射为待复核候选，不改变本目录原审批状态。
 <!-- FULL-LEARNING-END -->
+
+<!-- SYSTEMATIC-START -->
+## 系统学习与实践
+
+[先修自测与补课](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000038.md#先修自测与补课) → [分步推导与解释](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000038.md#分步推导与解释) → [图解与阅读](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000038.md#图解与阅读) → [分层练习与解答](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000038.md#分层练习与解答) → [综合实践](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000038.md#综合实践) → [核心论述与来源对应](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E6%96%87/CKC-CAT-000038.md#核心论述与来源对应)
+
+本课实践产物：三种丢包时序图与幂等记录表。先完成自测，再独立推导与做题；实践验收要求见正文，不以看过答案作为掌握证明。
+
+核心方法逐条列出直接来源及具体位置，背景引用另行标识。[完整课程阶梯](../../../自学/系统课程阶梯.md)。
+<!-- SYSTEMATIC-END -->
 
 ## 知识森林
 
