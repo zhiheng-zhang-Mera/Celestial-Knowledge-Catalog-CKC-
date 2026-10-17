@@ -10,6 +10,7 @@
 |---|---|
 | 从零理解穿戴设备与具身智能 | [工程自学路线](专题路径/穿戴与具身.md) |
 | 从零理解社交、职场、自我与性别 | [心理自学路线](专题路径/心理与社会.md) |
+| 先练家务分工、求助、拒绝与群聊沟通 | [十个日常案例与分层答案](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/日常社会与沟通实践.md) |
 | 从零理解政治、市场情绪与周期轮动 | [经济自学路线](专题路径/政治经济与市场.md) |
 | 学习自然、生命、医学、人文等全部领域 | [12 条全领域路线与263篇正文](自学/全目录学习表.md) |
 | 做综合练习、学习怎样读研究 | [跨学科项目](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/跨学科练习.md) / [研究阅读方法](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/研究阅读方法.md) |
