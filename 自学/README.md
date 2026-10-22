@@ -40,3 +40,5 @@
 ## 日常应用深化
 
 [日常关系六单元](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/日常关系六单元.md)：边界、冲突、亲密关系、职场沟通、微动作表情与操控识别；完整情境、对话、分层练习与答案。
+
+[理财投资六单元](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/理财投资六单元.md)：先学现金流、应急储备和债务，再学复利费用、资产工具、配置与信息核实。每单元有六题答案、综合实践，以及预算协商或信息核实失败后的下一步；无需开户或投入真实资金。它是原分类下的教学扩展，不改变28个入门单元的身份与前置关系。

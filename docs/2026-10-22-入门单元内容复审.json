@@ -1,0 +1,1032 @@
+[
+  {
+    "unit_id": "CKC-LEARN-001",
+    "path": "自学/单元/01-如何开始.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "换一种说法仍说不清目标时，先把“学懂全部”缩成“能独立解释一个例子”。",
+      "你只能背出“增长5个百分点”，却说不清10%到15%的基数，算掌握吗？不算。回到03单元画100格表，指出多出的5格，再说明相对原来10格增加50%。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DB003",
+        "url": "https://openstax.org/books/prealgebra-2e/pages/4-2-multiply-and-divide-fractions",
+        "locator": "分数乘除、约分、倒数",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-002",
+    "path": "自学/单元/02-算术与分数.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "算购物账得到负数时，先问这是欠款、退货还是符号误写，不删掉负号凑余额。",
+      "半份加四分之一份为什么是四分之三？把同样大小的一份分成4格，半份是2格，再加1格得3格；如果两份原物大小不同，不能直接相加。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DB003",
+        "url": "https://openstax.org/books/prealgebra-2e/pages/4-2-multiply-and-divide-fractions",
+        "locator": "分数乘除、约分、倒数",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-003",
+    "path": "自学/单元/03-比例单位与百分比.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "家人把“涨10个百分点”理解成“相对涨10%”时，用同一组原值重算，不说对方没常识。",
+      "某数从0到10，增长率能写100%吗？不能，分母为0。可以准确写增加10个单位，并说明相对增长率未定义。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DT026",
+        "url": "https://openstax.org/books/prealgebra-2e/pages/7-5-systems-of-measurement",
+        "locator": "Make unit conversions；Convert between Fahrenheit and Celsius temperatures",
+        "limits": "支持数学定义及方法；课程数据和推导演示为原创，不是来源题目复制。"
+      },
+      {
+        "id": "DB004",
+        "url": "https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable",
+        "locator": "等价变形、一次方程、分式方程与定义域",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB012",
+        "url": "https://openstax.org/books/college-algebra-2e/pages/4-2-modeling-with-linear-functions",
+        "locator": "线性模型、斜率截距、模型解释",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-004",
+    "path": "自学/单元/04-代数与图表.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "图看起来陡却和数字不一致时，先核对两轴单位、刻度间距及是否截断，不立即认定造假。",
+      "直线y=3x+2中x从2到3，y增加多少？由8到11，增加3。若把横轴换成分钟而数据仍是小时，须先统一单位。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DT026",
+        "url": "https://openstax.org/books/prealgebra-2e/pages/7-5-systems-of-measurement",
+        "locator": "Make unit conversions；Convert between Fahrenheit and Celsius temperatures",
+        "limits": "支持数学定义及方法；课程数据和推导演示为原创，不是来源题目复制。"
+      },
+      {
+        "id": "DB004",
+        "url": "https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable",
+        "locator": "等价变形、一次方程、分式方程与定义域",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB012",
+        "url": "https://openstax.org/books/college-algebra-2e/pages/4-2-modeling-with-linear-functions",
+        "locator": "线性模型、斜率截距、模型解释",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-005",
+    "path": "自学/单元/05-证据与提问.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "对方不接受你的解释时，回到可核实事实，列出双方还不知道什么；重复同一推断不等于新增证据。",
+      "朋友说“消息没回就是讨厌我”，能直接反驳成“他肯定忙”吗？也不能。忙是另一假说，可等合适时机确认，不靠另一种猜测取代原猜测。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "RS003",
+        "url": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings",
+        "locator": "Correlation Does Not Indicate Causation；随机抽样与分配第99–111行；Reliability and Validity第148–153行",
+        "limits": "仅核读所列网页段落，未核读整本书或所引原始研究；支持概念区分，不验证本课原创情境、话术或实践效果。"
+      },
+      {
+        "id": "DB010",
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+        "locator": "均值、中位数、异常值影响",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-006",
+    "path": "自学/单元/06-统计直觉.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "别人用平均值概括所有人时，请求原始分布或分组信息；拿不到则保留范围限制，不编造分布。",
+      "偶数数据2、4、6、10的中位数为什么不是4？排序后中间两项为4和6，平均为5。先重数个数，再选中间位置。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "RS003",
+        "url": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings",
+        "locator": "Correlation Does Not Indicate Causation；随机抽样与分配第99–111行；Reliability and Validity第148–153行",
+        "limits": "仅核读所列网页段落，未核读整本书或所引原始研究；支持概念区分，不验证本课原创情境、话术或实践效果。"
+      },
+      {
+        "id": "DB010",
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+        "locator": "均值、中位数、异常值影响",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-007",
+    "path": "自学/单元/07-电脑与编程.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "程序遇到空白输入时，不把空白自动当零；先记录缺失并要求有效输入，避免“正常结果”掩盖数据错误。",
+      "温度条件是大于28，28本身会触发吗？不会。测试27、28、29可分别覆盖阈值下、阈值上及边界；改成大于等于会改变边界行为。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "EN004",
+        "url": "https://cs50.harvard.edu/python/notes/1/",
+        "locator": "Conditionals/if Statements L114–136；本课温度案例原创，未运行外部课程",
+        "limits": "不声称整本或全部关联资料已读，不用定义为原创情境效果背书。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-008",
+    "path": "自学/单元/08-向量与矩阵.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "向量结果方向相反时，先检查坐标正方向及分量顺序，不把负数当计算失败。",
+      "(2,1)表示东2北1，改用北、东的顺序后应写什么？(1,2)。真实位移未变，表示顺序变了。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "EN001",
+        "url": "https://openstax.org/books/college-algebra-2e/pages/7-5-matrices-and-matrix-operations",
+        "locator": "§7.5定义L43–57、乘法L219–260；矩阵向量例为原创",
+        "limits": "不声称整本或全部关联资料已读，不用定义为原创情境效果背书。"
+      },
+      {
+        "id": "DB006",
+        "url": "https://openstax.org/books/contemporary-mathematics/pages/10-8-right-triangle-trigonometry",
+        "locator": "直角三角形与勾股关系",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-009",
+    "path": "自学/单元/09-三角幂与复数.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "对数的“几次”容易与乘号个数混淆；将幂展开成因子后再核对。",
+      "2³有几个因子2、几个乘号？三个因子、两个乘号。log₂8=3问的是指数；不是在数乘法符号。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "EN001",
+        "url": "https://openstax.org/books/college-algebra-2e/pages/7-5-matrices-and-matrix-operations",
+        "locator": "§7.5定义L43–57、乘法L219–260；矩阵向量例为原创",
+        "limits": "不声称整本或全部关联资料已读，不用定义为原创情境效果背书。"
+      },
+      {
+        "id": "DB006",
+        "url": "https://openstax.org/books/contemporary-mathematics/pages/10-8-right-triangle-trigonometry",
+        "locator": "直角三角形与勾股关系",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-010",
+    "path": "自学/单元/10-变化率与累计量.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "路程和位移混用时，画出起点、折返点和终点，再分别累加路程与计算位置差。",
+      "3秒向东3米再返回，平均速率与平均速度各多少？路程6米，速率2米/秒；位移0，平均速度0。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "EN002",
+        "url": "https://openstax.org/books/college-physics-2e/pages/2-3-time-velocity-and-speed",
+        "locator": "§2.3 Speed L74–83，往返例说明位移为零",
+        "limits": "不声称整本或全部关联资料已读，不用定义为原创情境效果背书。"
+      },
+      {
+        "id": "DB007",
+        "url": "https://openstax.org/books/calculus-volume-1/pages/3-1-defining-the-derivative",
+        "locator": "差商极限与瞬时变化率",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB008",
+        "url": "https://openstax.org/books/calculus-volume-1/pages/5-2-the-definite-integral",
+        "locator": "黎曼和、定积分及净面积",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB014",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+        "locator": "合力、质量与加速度",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-011",
+    "path": "自学/单元/11-力运动与能量.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "“动了就有持续净力”与模型冲突时，先区分速度和速度变化，再看是否忽略摩擦。",
+      "理想直线匀速是否意味着物体没有受任何力？不是。只说明合力为零，各力可能抵消；静止也不能推出没有重力。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "EN002",
+        "url": "https://openstax.org/books/college-physics-2e/pages/2-3-time-velocity-and-speed",
+        "locator": "§2.3 Speed L74–83，往返例说明位移为零",
+        "limits": "不声称整本或全部关联资料已读，不用定义为原创情境效果背书。"
+      },
+      {
+        "id": "DB007",
+        "url": "https://openstax.org/books/calculus-volume-1/pages/3-1-defining-the-derivative",
+        "locator": "差商极限与瞬时变化率",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB008",
+        "url": "https://openstax.org/books/calculus-volume-1/pages/5-2-the-definite-integral",
+        "locator": "黎曼和、定积分及净面积",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB014",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+        "locator": "合力、质量与加速度",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-012",
+    "path": "自学/单元/12-电路与安全.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "模拟电路与算式不符时，核对连接、单位及元件模型；不能因此转而尝试市电或人体接线。",
+      "5V加在1000Ω理想电阻上，电流5A对吗？不对，5÷1000=0.005A=5mA；先查欧姆与千欧换算。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DT075",
+        "url": "https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel",
+        "locator": "10.2 Resistors in Series and Parallel基础元件关系与分析",
+        "limits": "理想集总电路模型；忽略寄生与实际额定范围的例题仅供纸笔学习。"
+      },
+      {
+        "id": "DB067",
+        "url": "https://openstax.org/books/university-physics-volume-2/pages/9-5-electrical-energy-and-power",
+        "locator": "电功率与电能",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-013",
+    "path": "自学/单元/13-采样与信号.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "某个采样点缺失时，保留缺失标记和时间；填零会把“没测到”误写成“测到了0”。",
+      "三次读数1、缺失、9，能说平均10÷3吗？不能。若只算已观测两点均值则为5，必须注明只含两点且不能代表缺失时刻。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DB010",
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+        "locator": "均值、中位数、异常值影响",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB040",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda",
+        "locator": "参照标准、灵敏度、特异度、预测值与报告偏倚",
+        "limits": "用于诊断研究统计概念，不宣称覆盖2026年所有监管要求，不用于个人诊断。"
+      },
+      {
+        "id": "DT080",
+        "url": "https://www.analog.com/media/en/training-seminars/tutorials/MT-002.pdf",
+        "locator": "Baseband Antialiasing Filters与采样率过渡带",
+        "limits": "采用基带采样案例，不覆盖所有带通欠采样架构。"
+      },
+      {
+        "id": "DT079",
+        "url": "https://www.analog.com/media/en/training-seminars/tutorials/MT-001.pdf",
+        "locator": "Quantization Noise Model与量化噪声条件",
+        "limits": "只支持理想量化近似；本页编码箱中心约定明确，不冒充器件真实传输曲线。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-014",
+    "path": "自学/单元/14-人体与传感测量.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "传感读数与感受冲突时，先检查佩戴、环境和设备说明，不把设备输出当诊断，也不强迫他人证明感受。",
+      "手环多记100步，能直接认定身体异常吗？不能，可能是动作或算法差异；先说明测量链与误差来源，健康问题另寻合格支持。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DB010",
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+        "locator": "均值、中位数、异常值影响",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DB040",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda",
+        "locator": "参照标准、灵敏度、特异度、预测值与报告偏倚",
+        "limits": "用于诊断研究统计概念，不宣称覆盖2026年所有监管要求，不用于个人诊断。"
+      },
+      {
+        "id": "DT080",
+        "url": "https://www.analog.com/media/en/training-seminars/tutorials/MT-002.pdf",
+        "locator": "Baseband Antialiasing Filters与采样率过渡带",
+        "limits": "采用基带采样案例，不覆盖所有带通欠采样架构。"
+      },
+      {
+        "id": "DT079",
+        "url": "https://www.analog.com/media/en/training-seminars/tutorials/MT-001.pdf",
+        "locator": "Quantization Noise Model与量化噪声条件",
+        "limits": "只支持理想量化近似；本页编码箱中心约定明确，不冒充器件真实传输曲线。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-015",
+    "path": "自学/单元/15-嵌入式与通信.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "通信失败后重发可能重复执行。给命令标识并核查结果，但单独“记住ID”不自动解决执行后掉电、尚未保存记录的问题。",
+      "设备已执行却未回执，能换新ID再发同一动作保证不重复吗？不能。先查询原命令状态；系统还需定义执行与记录的一致性、重启和过期策略。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DB057",
+        "url": "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/",
+        "locator": "重试、不确定结果、请求标识与幂等副作用",
+        "limits": "支持幂等设计原则；示意账本不证明真实分布式实现可靠。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-016",
+    "path": "自学/单元/16-反馈控制与具身.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "反馈不按预想变化时，核对传感器、动作方向、延迟和执行器限制，不能无限加大输入。",
+      "升温指令后读数暂未变，能立刻断言加热器失效吗？不能，可能有延迟；先看模型与观测条件。纸面分析不授权改动真实安全设备。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "DB033",
+        "url": "https://openstax.org/books/biology-2e/pages/33-3-homeostasis",
+        "locator": "负反馈、正反馈、调节稳态与设定点",
+        "limits": "支持所列基础方法；原创情境、数值与练习答案由本课程推导，不作为现实观测。"
+      },
+      {
+        "id": "DT098",
+        "url": "https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-3-motion-control-with-velocity-inputs-part-1-of-3/",
+        "locator": "位置误差比例速度反馈及跟踪误差",
+        "limits": "连续模型的稳定性不自动保证任意采样周期的离散实现；离散条件由本课推导。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-017",
+    "path": "自学/单元/17-心理与行为.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "当事人不同意你的心理解释时，撤回确定性标签，问是否愿意补充情境；也允许对方不解释。",
+      "沉默的人说“我还在整理”，你该坚持他没想法吗？不应。更新解释，仍把行为观察与原因分开。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "RS026",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+        "locator": "第33–42行个体与情境；第43–54行归因及其限制",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS027",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-2-self-presentation",
+        "locator": "Social Roles第33–39行；Social Norms第40–42行；Scripts第51–54行；不采用监狱实验作为确定因果证据",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS023",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "locator": "开篇第30–38行情绪成分；Theories of Emotion第43–56行评价与唤醒；不采用历史实验作为普遍定律",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS031",
+        "url": "https://openstax.org/books/psychology-2e/pages/14-4-regulation-of-stress",
+        "locator": "Social Support第66–68行，情感支持、建议与实物帮助；不据后文健康相关数字推断本课效果",
+        "limits": "仅核指定段落，未核整书及引文原研究；概念来源不证明原创话术有效。"
+      },
+      {
+        "id": "BC001",
+        "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Assert-Yourself/Assert-Yourself---06---How-to-Say-No-Assertively.pdf",
+        "locator": "PDF printed pages 2–5: Saying No; More Helpful Beliefs; How to Say No; Ways of Saying No; page 8 contributor lines",
+        "limits": "未核查模块引用的治疗研究及统计，不采用其关于心理健康后果的概括，不把工作场景提醒解释成对一切上级要求的服从义务；未确认PDF版本年份。"
+      },
+      {
+        "id": "BC002",
+        "url": "https://assets.hse.ie/media/documents/Difficult_Conversations_HSEPart_4_Resolving_Conflict.pdf",
+        "locator": "PDF page 1 author/title; page 23 Harvard Negotiation Framework (zero-based page 22); page 31 assertive style",
+        "limits": "未将幻灯片等同于试验报告，未验证家庭迁移效果；不采用课件中的霸凌比例、法律定义或对五种方式输赢的绝对化概括。暂停安排和示例均为原创教学设计，未声称由该课件验证。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-018",
+    "path": "自学/单元/18-社交与沟通.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "明确请求后仍被打断，可说“这轮我还没讲完；若现在不方便，我们另约时间”。若对方仍不愿配合，可结束当次讨论，必要事项改用合适书面渠道，不用更强指控逼出倾听。",
+      "道歉后对方说“我现在不想谈”，怎样回应？可确认已做的补救和必要事务，尊重暂不讨论；不能要求立即原谅，也不把暂缓等同永远拒绝。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "RS026",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+        "locator": "第33–42行个体与情境；第43–54行归因及其限制",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS027",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-2-self-presentation",
+        "locator": "Social Roles第33–39行；Social Norms第40–42行；Scripts第51–54行；不采用监狱实验作为确定因果证据",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS023",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "locator": "开篇第30–38行情绪成分；Theories of Emotion第43–56行评价与唤醒；不采用历史实验作为普遍定律",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS031",
+        "url": "https://openstax.org/books/psychology-2e/pages/14-4-regulation-of-stress",
+        "locator": "Social Support第66–68行，情感支持、建议与实物帮助；不据后文健康相关数字推断本课效果",
+        "limits": "仅核指定段落，未核整书及引文原研究；概念来源不证明原创话术有效。"
+      },
+      {
+        "id": "BC001",
+        "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Assert-Yourself/Assert-Yourself---06---How-to-Say-No-Assertively.pdf",
+        "locator": "PDF printed pages 2–5: Saying No; More Helpful Beliefs; How to Say No; Ways of Saying No; page 8 contributor lines",
+        "limits": "未核查模块引用的治疗研究及统计，不采用其关于心理健康后果的概括，不把工作场景提醒解释成对一切上级要求的服从义务；未确认PDF版本年份。"
+      },
+      {
+        "id": "BC002",
+        "url": "https://assets.hse.ie/media/documents/Difficult_Conversations_HSEPart_4_Resolving_Conflict.pdf",
+        "locator": "PDF page 1 author/title; page 23 Harvard Negotiation Framework (zero-based page 22); page 31 assertive style",
+        "limits": "未将幻灯片等同于试验报告，未验证家庭迁移效果；不采用课件中的霸凌比例、法律定义或对五种方式输赢的绝对化概括。暂停安排和示例均为原创教学设计，未声称由该课件验证。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-019",
+    "path": "自学/单元/19-职场与组织.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "负责人只回复“都要完成”时，记录70分钟需求与50分钟容量，说明缺20分钟并请求具体取舍；保留未解决状态，按合适渠道协调。",
+      "负责人说先甲后乙，能在报告写“所有截止均已解决”吗？不能。顺序得到确认，容量缺口仍未解决。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "RS026",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+        "locator": "第33–42行个体与情境；第43–54行归因及其限制",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS027",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-2-self-presentation",
+        "locator": "Social Roles第33–39行；Social Norms第40–42行；Scripts第51–54行；不采用监狱实验作为确定因果证据",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS023",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "locator": "开篇第30–38行情绪成分；Theories of Emotion第43–56行评价与唤醒；不采用历史实验作为普遍定律",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS031",
+        "url": "https://openstax.org/books/psychology-2e/pages/14-4-regulation-of-stress",
+        "locator": "Social Support第66–68行，情感支持、建议与实物帮助；不据后文健康相关数字推断本课效果",
+        "limits": "仅核指定段落，未核整书及引文原研究；概念来源不证明原创话术有效。"
+      },
+      {
+        "id": "BC001",
+        "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Assert-Yourself/Assert-Yourself---06---How-to-Say-No-Assertively.pdf",
+        "locator": "PDF printed pages 2–5: Saying No; More Helpful Beliefs; How to Say No; Ways of Saying No; page 8 contributor lines",
+        "limits": "未核查模块引用的治疗研究及统计，不采用其关于心理健康后果的概括，不把工作场景提醒解释成对一切上级要求的服从义务；未确认PDF版本年份。"
+      },
+      {
+        "id": "BC002",
+        "url": "https://assets.hse.ie/media/documents/Difficult_Conversations_HSEPart_4_Resolving_Conflict.pdf",
+        "locator": "PDF page 1 author/title; page 23 Harvard Negotiation Framework (zero-based page 22); page 31 assertive style",
+        "limits": "未将幻灯片等同于试验报告，未验证家庭迁移效果；不采用课件中的霸凌比例、法律定义或对五种方式输赢的绝对化概括。暂停安排和示例均为原创教学设计，未声称由该课件验证。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-020",
+    "path": "自学/单元/20-自我观察.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "写记录后更陷自责，可以停止，不把继续暴露私人经历当进步。先缩小成一个可调整的任务条件，持续困扰时寻求合格支持。",
+      "发现一次任务成功，能推翻“所有事都失败”吗？能反驳这个全称说法，但不能推出以后所有任务都会成功；继续按具体任务讨论。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "RS026",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+        "locator": "第33–42行个体与情境；第43–54行归因及其限制",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS027",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-2-self-presentation",
+        "locator": "Social Roles第33–39行；Social Norms第40–42行；Scripts第51–54行；不采用监狱实验作为确定因果证据",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS023",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "locator": "开篇第30–38行情绪成分；Theories of Emotion第43–56行评价与唤醒；不采用历史实验作为普遍定律",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS031",
+        "url": "https://openstax.org/books/psychology-2e/pages/14-4-regulation-of-stress",
+        "locator": "Social Support第66–68行，情感支持、建议与实物帮助；不据后文健康相关数字推断本课效果",
+        "limits": "仅核指定段落，未核整书及引文原研究；概念来源不证明原创话术有效。"
+      },
+      {
+        "id": "BC001",
+        "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Assert-Yourself/Assert-Yourself---06---How-to-Say-No-Assertively.pdf",
+        "locator": "PDF printed pages 2–5: Saying No; More Helpful Beliefs; How to Say No; Ways of Saying No; page 8 contributor lines",
+        "limits": "未核查模块引用的治疗研究及统计，不采用其关于心理健康后果的概括，不把工作场景提醒解释成对一切上级要求的服从义务；未确认PDF版本年份。"
+      },
+      {
+        "id": "BC002",
+        "url": "https://assets.hse.ie/media/documents/Difficult_Conversations_HSEPart_4_Resolving_Conflict.pdf",
+        "locator": "PDF page 1 author/title; page 23 Harvard Negotiation Framework (zero-based page 22); page 31 assertive style",
+        "limits": "未将幻灯片等同于试验报告，未验证家庭迁移效果；不采用课件中的霸凌比例、法律定义或对五种方式输赢的绝对化概括。暂停安排和示例均为原创教学设计，未声称由该课件验证。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-021",
+    "path": "自学/单元/21-性别概念.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "别人追问身份而你不愿披露时，可以说“这个话题我暂不讨论”。若对方不尊重，可结束对话或寻求可信支持，不必拿测验结果证明身份。",
+      "对方换了一种服饰，就替其宣布身份，正确吗？不正确。表达不能代替认同或吸引，尊重本人自述及不披露。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "EN003",
+        "url": "https://www.apa.org/topics/lgbtq/transgender-people-gender-identity-gender-expression",
+        "locator": "定义L37–42、表达L50、认同与倾向L62–63、不要假设L95–99；不采用旧术语、医疗建议或诊断分类",
+        "limits": "不声称整本或全部关联资料已读，不用定义为原创情境效果背书。"
+      },
+      {
+        "id": "RS045",
+        "url": "https://www.who.int/health-topics/gender",
+        "locator": "Overview第85–90行：社会角色、历史变化、交叉条件、生理特征、认同、服务可及性",
+        "limits": "无单一发表年；概念框架不是个体身份测试、医疗判断或具体地区法律；不使用相邻患病率作课程数据。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-022",
+    "path": "自学/单元/22-心理研究与量表.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "找不到量表适用对象或验证材料时，标记未核实，不因题目像专业术语就给自己下结论。",
+      "同一问卷重复高分，能证明一次职场失误由人格造成吗？不能。一致性不等于这种用途有效，还缺情境、测量与因果证据。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "RS003",
+        "url": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings",
+        "locator": "Correlation Does Not Indicate Causation；随机抽样与分配第99–111行；Reliability and Validity第148–153行",
+        "limits": "仅核读所列网页段落，未核读整本书或所引原始研究；支持概念区分，不验证本课原创情境、话术或实践效果。"
+      },
+      {
+        "id": "RS021",
+        "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+        "locator": "开篇与Clinical or Case Studies第31–49行；Surveys第71–81行；Longitudinal and Cross-Sectional Research第93–108行",
+        "limits": "只核读指定网页段落，未核整书及其引用研究；仅支持概念，原创话术和纸上情境未经干预验证。"
+      },
+      {
+        "id": "RS046",
+        "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html",
+        "locator": "1979原报告：Respect第147–154行；Beneficence第155–161行；Justice第165–174行；Consent第181–201行；Risk Assessment第202–218行",
+        "limits": "历史伦理原则不是全部现行法律；“Privacy in risk assessment”不是原文小标题，隐私技术细节另见RS047；原文部分术语反映1979年代。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-023",
+    "path": "自学/单元/23-收支选择与市场.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "家庭讨论“还有结余”时，要确认是否遗漏年度账单及付款日期；讨论不成也不能把未确认分担算成已到账。",
+      "月末工资3000、当月支出2500，但1日余额0、2日应付500，月末结余能保证2日付款吗？不能，需另核时点和可用资金。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "FI001",
+        "url": "https://moneysmart.gov.au/budgeting/how-to-do-a-budget",
+        "locator": "5 steps to create a budget: income, expenses, compare, goal, review; updated 2026-10-09",
+        "limits": "澳大利亚教育资料；不采用十分钟完成或减压的效果承诺。"
+      },
+      {
+        "id": "FI005",
+        "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated",
+        "locator": "2025-07-23: Fees reduce returns; read disclosures; transaction and ongoing fees",
+        "limits": "未复制其图表与具体曲线；本课扣费顺序为原创假设，实际以合同为准。"
+      },
+      {
+        "id": "RS048",
+        "url": "https://www.rba.gov.au/education/resources/explainers/economic-growth.html",
+        "locator": "第79–108行：GDP三种衡量、增加值、名义与实际、人均与局限",
+        "limits": "仅核指定段落，未核整书及引文原研究；概念来源不证明原创话术有效。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-024",
+    "path": "自学/单元/24-宏观货币与价格.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "听到“工资涨了所以生活一定更轻松”，先比较同期间价格和本人支出，不否定对方体验。",
+      "名义金额增长10%、同期间价格涨10%，购买力是否增长10%？没有，在相同篮子假设下1.1÷1.1−1=0。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "FI001",
+        "url": "https://moneysmart.gov.au/budgeting/how-to-do-a-budget",
+        "locator": "5 steps to create a budget: income, expenses, compare, goal, review; updated 2026-10-09",
+        "limits": "澳大利亚教育资料；不采用十分钟完成或减压的效果承诺。"
+      },
+      {
+        "id": "FI005",
+        "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated",
+        "locator": "2025-07-23: Fees reduce returns; read disclosures; transaction and ongoing fees",
+        "limits": "未复制其图表与具体曲线；本课扣费顺序为原创假设，实际以合同为准。"
+      },
+      {
+        "id": "RS048",
+        "url": "https://www.rba.gov.au/education/resources/explainers/economic-growth.html",
+        "locator": "第79–108行：GDP三种衡量、增加值、名义与实际、人均与局限",
+        "limits": "仅核指定段落，未核整书及引文原研究；概念来源不证明原创话术有效。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-025",
+    "path": "自学/单元/25-政治与政策.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "政策原文找不到或尚为建议时，写明未确认的批准、生效与对象，不用新闻标题代替实施条件。",
+      "对方要求立刻据建议稿买入，怎样回应？“目前只确认建议，尚未确认实施与影响；我先核对正式资料，不据此承诺投资。”"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "FI004",
+        "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+        "locator": "Asset allocation; timeframe; risk tolerance; Rebalancing; What is diversification",
+        "limits": "非原始效果实验；不把示例60/40作为个性化建议，不声称分散消除所有风险。"
+      },
+      {
+        "id": "RS054",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/04/14/world-economic-outlook-april-2026",
+        "locator": "Overview第17–24行；2026-04-14出版，数据截止4月1日，条件性预测",
+        "limits": "仅核概览，不声明全报告已读或这是当前最新一期。"
+      },
+      {
+        "id": "RS058",
+        "url": "https://www.rba.gov.au/education/resources/explainers/the-transmission-of-monetary-policy.html",
+        "locator": "第78–99行传导和不确定时滞；105–117行投资与现金流；118–128行资产/汇率渠道",
+        "limits": "澳大利亚机制说明；不把一至两年估计当承诺，不预测具体资产涨跌。"
+      },
+      {
+        "id": "RS062",
+        "url": "https://otexts.com/fpp3/toolbox.html",
+        "locator": "5.2第210–240行朴素基准；5.8第729–739行训练/测试、765–775行误差；5.10第940–948行滚动原点与未来信息",
+        "limits": "tscv和accuracy旧链接重定向整章；实际核上述正文段落，未执行R例；通用预测评价不证明任何交易策略收益。"
+      },
+      {
+        "id": "RS063",
+        "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
+        "locator": "作者站2015-02修订PDF；第2页摘要、第3–6页Introduction，抽取第18–169行",
+        "limits": "未读全部34页及未复现CSCV；只支持多重尝试、样本内选优和测试污染风险，不宣称任意留出法或CSCV必能消除偏差。"
+      },
+      {
+        "id": "RS071",
+        "url": "https://www.policyuncertainty.com/gpr.html",
+        "locator": "第180–191行作者、报纸文章份额、八类词检索、基准和历史系列",
+        "limits": "研究者平台说明，未下载复算指数；页面引用2021工作论文，不把书目版本当最新成果；新闻份额非事件概率。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-026",
+    "path": "自学/单元/26-市场情绪与信息.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "群聊用十条帖子催你跟买时，分别检查人数、重复发帖、样本与价格预测；无法取得样本口径就保留不确定。",
+      "八条看涨来自两个人，能称八个人看涨吗？不能。帖子数、独立人数与总体比例是三种分母。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "FI004",
+        "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+        "locator": "Asset allocation; timeframe; risk tolerance; Rebalancing; What is diversification",
+        "limits": "非原始效果实验；不把示例60/40作为个性化建议，不声称分散消除所有风险。"
+      },
+      {
+        "id": "RS054",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/04/14/world-economic-outlook-april-2026",
+        "locator": "Overview第17–24行；2026-04-14出版，数据截止4月1日，条件性预测",
+        "limits": "仅核概览，不声明全报告已读或这是当前最新一期。"
+      },
+      {
+        "id": "RS058",
+        "url": "https://www.rba.gov.au/education/resources/explainers/the-transmission-of-monetary-policy.html",
+        "locator": "第78–99行传导和不确定时滞；105–117行投资与现金流；118–128行资产/汇率渠道",
+        "limits": "澳大利亚机制说明；不把一至两年估计当承诺，不预测具体资产涨跌。"
+      },
+      {
+        "id": "RS062",
+        "url": "https://otexts.com/fpp3/toolbox.html",
+        "locator": "5.2第210–240行朴素基准；5.8第729–739行训练/测试、765–775行误差；5.10第940–948行滚动原点与未来信息",
+        "limits": "tscv和accuracy旧链接重定向整章；实际核上述正文段落，未执行R例；通用预测评价不证明任何交易策略收益。"
+      },
+      {
+        "id": "RS063",
+        "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
+        "locator": "作者站2015-02修订PDF；第2页摘要、第3–6页Introduction，抽取第18–169行",
+        "limits": "未读全部34页及未复现CSCV；只支持多重尝试、样本内选优和测试污染风险，不宣称任意留出法或CSCV必能消除偏差。"
+      },
+      {
+        "id": "RS071",
+        "url": "https://www.policyuncertainty.com/gpr.html",
+        "locator": "第180–191行作者、报纸文章份额、八类词检索、基准和历史系列",
+        "limits": "研究者平台说明，未下载复算指数；页面引用2021工作论文，不把书目版本当最新成果；新闻份额非事件概率。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-027",
+    "path": "自学/单元/27-周期与轮动.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "模型回测与原发布记录冲突时，先锁定当时可见版本，不用后来修订标签美化年初决策。",
+      "三次历史轮动顺序相同，可保证第四次吗？不能，样本少且制度、估值与外部条件会变；它只能形成待检验假说。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "FI004",
+        "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+        "locator": "Asset allocation; timeframe; risk tolerance; Rebalancing; What is diversification",
+        "limits": "非原始效果实验；不把示例60/40作为个性化建议，不声称分散消除所有风险。"
+      },
+      {
+        "id": "RS054",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/04/14/world-economic-outlook-april-2026",
+        "locator": "Overview第17–24行；2026-04-14出版，数据截止4月1日，条件性预测",
+        "limits": "仅核概览，不声明全报告已读或这是当前最新一期。"
+      },
+      {
+        "id": "RS058",
+        "url": "https://www.rba.gov.au/education/resources/explainers/the-transmission-of-monetary-policy.html",
+        "locator": "第78–99行传导和不确定时滞；105–117行投资与现金流；118–128行资产/汇率渠道",
+        "limits": "澳大利亚机制说明；不把一至两年估计当承诺，不预测具体资产涨跌。"
+      },
+      {
+        "id": "RS062",
+        "url": "https://otexts.com/fpp3/toolbox.html",
+        "locator": "5.2第210–240行朴素基准；5.8第729–739行训练/测试、765–775行误差；5.10第940–948行滚动原点与未来信息",
+        "limits": "tscv和accuracy旧链接重定向整章；实际核上述正文段落，未执行R例；通用预测评价不证明任何交易策略收益。"
+      },
+      {
+        "id": "RS063",
+        "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
+        "locator": "作者站2015-02修订PDF；第2页摘要、第3–6页Introduction，抽取第18–169行",
+        "limits": "未读全部34页及未复现CSCV；只支持多重尝试、样本内选优和测试污染风险，不宣称任意留出法或CSCV必能消除偏差。"
+      },
+      {
+        "id": "RS071",
+        "url": "https://www.policyuncertainty.com/gpr.html",
+        "locator": "第180–191行作者、报纸文章份额、八类词检索、基准和历史系列",
+        "limits": "研究者平台说明，未下载复算指数；页面引用2021工作论文，不把书目版本当最新成果；新闻份额非事件概率。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  },
+  {
+    "unit_id": "CKC-LEARN-028",
+    "path": "自学/单元/28-风险与验证.md",
+    "full_read": true,
+    "checked_on": "2026-10-22",
+    "review_type": "逐篇正文、算例、前置与情境内容审校",
+    "findings_and_fixes": [
+      "纸上策略亏损时，按事前规则记录失败，查成本和数据；不能删掉坏年份后宣称稳健，也不靠增加真实本金验证。",
+      "高点120跌到90，回撤多少，回到120要涨多少？25%与约33.33%。先确认分母分别是高点120和当前90。"
+    ],
+    "status": "CONTENT_REVIEWED",
+    "limits": "原创情境不是干预效果证据；原资源中的课程前言只作课程入口，不支持所有具体论断。直接概念来源另见资源与来源的2026-10-22补充。",
+    "source_checks": [
+      {
+        "id": "FI004",
+        "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+        "locator": "Asset allocation; timeframe; risk tolerance; Rebalancing; What is diversification",
+        "limits": "非原始效果实验；不把示例60/40作为个性化建议，不声称分散消除所有风险。"
+      },
+      {
+        "id": "RS054",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/04/14/world-economic-outlook-april-2026",
+        "locator": "Overview第17–24行；2026-04-14出版，数据截止4月1日，条件性预测",
+        "limits": "仅核概览，不声明全报告已读或这是当前最新一期。"
+      },
+      {
+        "id": "RS058",
+        "url": "https://www.rba.gov.au/education/resources/explainers/the-transmission-of-monetary-policy.html",
+        "locator": "第78–99行传导和不确定时滞；105–117行投资与现金流；118–128行资产/汇率渠道",
+        "limits": "澳大利亚机制说明；不把一至两年估计当承诺，不预测具体资产涨跌。"
+      },
+      {
+        "id": "RS062",
+        "url": "https://otexts.com/fpp3/toolbox.html",
+        "locator": "5.2第210–240行朴素基准；5.8第729–739行训练/测试、765–775行误差；5.10第940–948行滚动原点与未来信息",
+        "limits": "tscv和accuracy旧链接重定向整章；实际核上述正文段落，未执行R例；通用预测评价不证明任何交易策略收益。"
+      },
+      {
+        "id": "RS063",
+        "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
+        "locator": "作者站2015-02修订PDF；第2页摘要、第3–6页Introduction，抽取第18–169行",
+        "limits": "未读全部34页及未复现CSCV；只支持多重尝试、样本内选优和测试污染风险，不宣称任意留出法或CSCV必能消除偏差。"
+      },
+      {
+        "id": "RS071",
+        "url": "https://www.policyuncertainty.com/gpr.html",
+        "locator": "第180–191行作者、报纸文章份额、八类词检索、基准和历史系列",
+        "limits": "研究者平台说明，未下载复算指数；页面引用2021工作论文，不把书目版本当最新成果；新闻份额非事件概率。"
+      }
+    ],
+    "prerequisite_check": "正文概念与入口前置逐项检查；新的失败练习不要求完成高级学科；进阶术语不冒充本页已掌握。"
+  }
+]

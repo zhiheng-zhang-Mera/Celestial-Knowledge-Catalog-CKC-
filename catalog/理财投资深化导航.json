@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-22",
+  "state": "CANDIDATE",
+  "scope": "候选教学导航；不改变正式分类、批准状态及历史关系",
+  "entry": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/理财投资六单元.md",
+  "units": [
+    {
+      "sequence": 1,
+      "title": "现金流与预算",
+      "existing_catalog_ids": [
+        "CKC-CAT-000074",
+        "CKC-CAT-000078",
+        "CKC-CAT-000092",
+        "CKC-CAT-000227"
+      ],
+      "prerequisite_units": [],
+      "source_ids": [
+        "FI001"
+      ],
+      "practice": "6道分层题含答案、原创情境与对话、失败回退及综合实践",
+      "url": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/理财入门与风险缓冲.md#unit-1"
+    },
+    {
+      "sequence": 2,
+      "title": "应急储备债务与保险",
+      "existing_catalog_ids": [
+        "CKC-CAT-000077",
+        "CKC-CAT-000234",
+        "CKC-CAT-000247"
+      ],
+      "prerequisite_units": [
+        1
+      ],
+      "source_ids": [
+        "FI002",
+        "FI003",
+        "FI008"
+      ],
+      "practice": "6道分层题含答案、原创情境与对话、失败回退及综合实践",
+      "url": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/理财入门与风险缓冲.md#unit-2"
+    },
+    {
+      "sequence": 3,
+      "title": "复利费用与购买力",
+      "existing_catalog_ids": [
+        "CKC-CAT-000239",
+        "CKC-CAT-000241",
+        "CKC-CAT-000248"
+      ],
+      "prerequisite_units": [
+        2
+      ],
+      "source_ids": [
+        "FI005"
+      ],
+      "practice": "6道分层题含答案、原创情境与对话、失败回退及综合实践",
+      "url": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/投资计算与资产工具.md#unit-3"
+    },
+    {
+      "sequence": 4,
+      "title": "投资工具与风险",
+      "existing_catalog_ids": [
+        "CKC-CAT-000238",
+        "CKC-CAT-000239"
+      ],
+      "prerequisite_units": [
+        3
+      ],
+      "source_ids": [
+        "FI006",
+        "FI007",
+        "FI011",
+        "FI012"
+      ],
+      "practice": "6道分层题含答案、原创情境与对话、失败回退及综合实践",
+      "url": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/投资计算与资产工具.md#unit-4"
+    },
+    {
+      "sequence": 5,
+      "title": "资产配置与再平衡",
+      "existing_catalog_ids": [
+        "CKC-CAT-000240",
+        "CKC-CAT-000246",
+        "CKC-CAT-000247",
+        "CKC-CAT-000248"
+      ],
+      "prerequisite_units": [
+        4
+      ],
+      "source_ids": [
+        "FI004"
+      ],
+      "practice": "6道分层题含答案、原创情境与对话、失败回退及综合实践",
+      "url": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/投资计划与金融沟通.md#unit-5"
+    },
+    {
+      "sequence": 6,
+      "title": "金融信息核实与沟通",
+      "existing_catalog_ids": [
+        "CKC-CAT-000229",
+        "CKC-CAT-000242",
+        "CKC-CAT-000243",
+        "CKC-CAT-000099",
+        "CKC-CAT-000100",
+        "CKC-CAT-000207"
+      ],
+      "prerequisite_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source_ids": [
+        "FI009",
+        "FI010"
+      ],
+      "practice": "6道分层题含答案、原创情境与对话、失败回退及综合实践",
+      "url": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/投资计划与金融沟通.md#unit-6"
+    }
+  ]
+}
