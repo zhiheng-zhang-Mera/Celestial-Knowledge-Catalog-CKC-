@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-22",
   "systematic": {
     "status": "PASS",
     "courses": 263,
-    "added_han": 476947,
+    "added_han": 480161,
     "diagrams": 263,
     "declared_direct_alignments": 537,
     "prerequisite_checks": 526,
@@ -20,8 +20,8 @@
   "scope": "静态结构、链接与最低内容检查；不是逐句专业审校或学习效果验证",
   "catalog_count": 263,
   "course_count": 263,
-  "source_count": 446,
-  "distinct_source_urls": 407,
+  "source_count": 460,
+  "distinct_source_urls": 420,
   "source_years": [
     2023,
     2025,
@@ -44,9 +44,9 @@
     2021,
     1979,
     2012,
-    2005,
-    2008,
     1999,
+    2008,
+    2005,
     2003,
     1949,
     1990,
@@ -57,16 +57,16 @@
     2013,
     1998
   ],
-  "nodes": 710,
-  "edges": 1078,
+  "nodes": 724,
+  "edges": 1099,
   "historical_prerequisite_edges": 238,
   "entry_prerequisite_edges": 43,
   "protected_baselines": 6,
-  "checked_links": 12526,
+  "checked_links": 12581,
   "han_characters": {
-    "total": 834321,
+    "total": 837535,
     "min": 2714,
-    "max": 3874
+    "max": 4239
   },
   "errors": [],
   "badLinks": [],

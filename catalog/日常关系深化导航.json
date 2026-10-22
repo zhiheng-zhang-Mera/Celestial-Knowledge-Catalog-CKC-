@@ -1,0 +1,63 @@
+{
+  "日期": "2026-10-22",
+  "状态": "候选教学导航；不改变分类、审核及28入门单元",
+  "单元": [
+    {
+      "顺序": 1,
+      "名称": "人际边界",
+      "已有目录编号": [
+        "CKC-CAT-000207",
+        "CKC-CAT-000202"
+      ],
+      "学习成果": "区分边界、请求、协商和控制，说明资源、权限、旧承诺与拒绝代价",
+      "正文": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人际边界与冲突处理.md#unit-1"
+    },
+    {
+      "顺序": 2,
+      "名称": "冲突处理",
+      "已有目录编号": [
+        "CKC-CAT-000208"
+      ],
+      "学习成果": "区分立场和利益，设计暂停、责任交接及可检查修复",
+      "正文": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人际边界与冲突处理.md#unit-2"
+    },
+    {
+      "顺序": 3,
+      "名称": "亲密关系",
+      "已有目录编号": [
+        "CKC-CAT-000203"
+      ],
+      "学习成果": "确认支持与同意范围，练习分工修复，不以密码或依恋标签证明关系",
+      "正文": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/亲密关系与职场沟通.md#unit-1"
+    },
+    {
+      "顺序": 4,
+      "名称": "职场沟通",
+      "已有目录编号": [
+        "CKC-CAT-000213",
+        "CKC-CAT-000202"
+      ],
+      "学习成果": "结合权力和角色核算容量，明确反馈、授权和待决定事项",
+      "正文": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/亲密关系与职场沟通.md#unit-2"
+    },
+    {
+      "顺序": 5,
+      "名称": "微动作表情",
+      "已有目录编号": [
+        "CKC-CAT-000201"
+      ],
+      "学习成果": "分开动作、情绪解释与事实判断，用假阳性人数表解释误判",
+      "正文": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/微动作表情与操控识别.md#unit-1"
+    },
+    {
+      "顺序": 6,
+      "名称": "识别操控",
+      "已有目录编号": [
+        "CKC-CAT-000205",
+        "CKC-CAT-000207"
+      ],
+      "学习成果": "观察重复行为与拒绝代价，区分普通分歧、标签和安全支持需求",
+      "正文": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/微动作表情与操控识别.md#unit-2"
+    }
+  ]
+}
