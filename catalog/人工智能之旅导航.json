@@ -1,0 +1,772 @@
+{
+  "规范版本": "CKC-AI-JOURNEY-NAV-20261024-v1",
+  "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+  "名称": "一条消息的地下旅行",
+  "副标题": "从对话界面到梯度，再回到智能体",
+  "课程版本": "1.0",
+  "状态": "CANDIDATE",
+  "更新日期": "2026-10-24",
+  "语言": "简体中文",
+  "面向读者": "已有变量、函数、数组和循环基础，能阅读短篇Python程序的计算机专业入门读者；适合继续建立现代人工智能机制图景。",
+  "数学入口": "矩阵、条件概率、导数与统计按需补课，不要求先修完完整数学课程。",
+  "教学形式": "原创中文叙事教材、数值例题、逐章练习答案与本地实验。",
+  "章节数": 24,
+  "练习总数": 96,
+  "实验数": 7,
+  "贯穿任务": "请根据摄像头画面和库存记录，找出桌上的蓝色杯子，说明依据，并给出把它移到右侧空架的计划；先不要执行。",
+  "场景说明": "天穹站、岚、回声以及设备和记录均为虚构教学情境；人物化对白不作为模型机制解释。",
+  "数据状态": "DEMO_ONLY",
+  "审核边界": "完整指课程材料已经编成；CANDIDATE状态保持，文档及实验核验不等于人工专业审校或学习效果验证。",
+  "实现边界": "提供静态正文、索引及离线教学实验；不宣称已部署模型、检索、自动判分或真实设备控制服务。",
+  "分类兼容": "独立课程视图；保留既有263个分类的编号和审核状态，保留28个零基础单元及其索引、前置关系。",
+  "阅读顺序说明": "建议前章和建议后章仅表示本书连续阅读顺序，不新增或改写正式学科分类的前置关系。",
+  "部": [
+    {
+      "序号": 1,
+      "名称": "从界面向内",
+      "章节编号": [
+        "CKF-AI-001",
+        "CKF-AI-002",
+        "CKF-AI-003",
+        "CKF-AI-004"
+      ]
+    },
+    {
+      "序号": 2,
+      "名称": "表征的深井",
+      "章节编号": [
+        "CKF-AI-005",
+        "CKF-AI-006",
+        "CKF-AI-007",
+        "CKF-AI-008"
+      ]
+    },
+    {
+      "序号": 3,
+      "名称": "在地板上学会学习",
+      "章节编号": [
+        "CKF-AI-009",
+        "CKF-AI-010",
+        "CKF-AI-011",
+        "CKF-AI-012"
+      ]
+    },
+    {
+      "序号": 4,
+      "名称": "亲手重建回声",
+      "章节编号": [
+        "CKF-AI-013",
+        "CKF-AI-014",
+        "CKF-AI-015",
+        "CKF-AI-016"
+      ]
+    },
+    {
+      "序号": 5,
+      "名称": "把模型接回世界",
+      "章节编号": [
+        "CKF-AI-017",
+        "CKF-AI-018",
+        "CKF-AI-019",
+        "CKF-AI-020"
+      ]
+    },
+    {
+      "序号": 6,
+      "名称": "带着证据回到地面",
+      "章节编号": [
+        "CKF-AI-021",
+        "CKF-AI-022",
+        "CKF-AI-023",
+        "CKF-AI-024"
+      ]
+    }
+  ],
+  "本仓职责": "保存中文课程定位、阅读顺序和跨仓跳转；正文、实验与研究来源由CKF保存。",
+  "导航路径": "自学/人工智能之旅.md",
+  "导航数据路径": "catalog/人工智能之旅导航.json",
+  "正文仓库": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-",
+  "正文分支": "main",
+  "跨仓路径说明": "章节正文路径和实验源代码路径均相对CKF仓库根目录；完整正文与源码链接指向该仓库main分支。",
+  "全文入口": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/README.md",
+  "实验入口": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md",
+  "补课入口": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/README.md#补课入口",
+  "来源入口": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/来源与阅读边界.md",
+  "正文机器索引": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/data/人工智能之旅索引.json",
+  "既有分类权威": "catalog/分类目录.json",
+  "既有零基础自学权威": "catalog/零基础自学索引.json",
+  "章节": [
+    {
+      "序号": 1,
+      "章节编号": "CKF-AI-001",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 1,
+      "部名称": "从界面向内",
+      "名称": "一条消息没有直接进入大脑",
+      "源章题名": "一条消息没有直接进入大脑",
+      "学习目标": "沿日志区分产品、模型与工具，判断每项现场结论需要哪些证据。",
+      "正文路径": "学习正文/人工智能之旅/chapters/01-一条消息没有直接进入大脑.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/01-一条消息没有直接进入大脑.md",
+      "建议前章": null,
+      "建议后章": "CKF-AI-002",
+      "练习编号": [
+        "E01.1",
+        "E01.2",
+        "E01.3",
+        "E01.4"
+      ],
+      "实验序号": []
+    },
+    {
+      "序号": 2,
+      "章节编号": "CKF-AI-002",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 1,
+      "部名称": "从界面向内",
+      "名称": "回声为什么一个词一个词出现",
+      "源章题名": "回声为什么一个词一个词出现",
+      "学习目标": "从候选分数算出下一词元分布，区分生成、传输与显示。",
+      "正文路径": "学习正文/人工智能之旅/chapters/02-回声为什么一个词一个词出现.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/02-回声为什么一个词一个词出现.md",
+      "建议前章": "CKF-AI-001",
+      "建议后章": "CKF-AI-003",
+      "练习编号": [
+        "E02.1",
+        "E02.2",
+        "E02.3",
+        "E02.4"
+      ],
+      "实验序号": []
+    },
+    {
+      "序号": 3,
+      "章节编号": "CKF-AI-003",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 1,
+      "部名称": "从界面向内",
+      "名称": "行李箱里的对话",
+      "源章题名": "行李箱里的对话",
+      "学习目标": "追踪角色与消息的组装，分清上下文、外部记录、缓存与权重。",
+      "正文路径": "学习正文/人工智能之旅/chapters/03-行李箱里的对话.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/03-行李箱里的对话.md",
+      "建议前章": "CKF-AI-002",
+      "建议后章": "CKF-AI-004",
+      "练习编号": [
+        "E03.1",
+        "E03.2",
+        "E03.3",
+        "E03.4"
+      ],
+      "实验序号": []
+    },
+    {
+      "序号": 4,
+      "章节编号": "CKF-AI-004",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 1,
+      "部名称": "从界面向内",
+      "名称": "文字变成编号",
+      "源章题名": "文字变成编号",
+      "学习目标": "比较字符、字节和词元，手算一次合并并检查可逆表示。",
+      "正文路径": "学习正文/人工智能之旅/chapters/04-文字变成编号.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/04-文字变成编号.md",
+      "建议前章": "CKF-AI-003",
+      "建议后章": "CKF-AI-005",
+      "练习编号": [
+        "E04.1",
+        "E04.2",
+        "E04.3",
+        "E04.4"
+      ],
+      "实验序号": [
+        1
+      ]
+    },
+    {
+      "序号": 5,
+      "章节编号": "CKF-AI-005",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 2,
+      "部名称": "表征的深井",
+      "名称": "坐标而非词典",
+      "源章题名": "坐标而非词典",
+      "学习目标": "计算嵌入查表、点积与矩阵形状，区分静态嵌入和上下文表示。",
+      "正文路径": "学习正文/人工智能之旅/chapters/05-坐标而非词典.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/05-坐标而非词典.md",
+      "建议前章": "CKF-AI-004",
+      "建议后章": "CKF-AI-006",
+      "练习编号": [
+        "E05.1",
+        "E05.2",
+        "E05.3",
+        "E05.4"
+      ],
+      "实验序号": [
+        2
+      ]
+    },
+    {
+      "序号": 6,
+      "章节编号": "CKF-AI-006",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 2,
+      "部名称": "表征的深井",
+      "名称": "谁在看谁",
+      "源章题名": "谁在看谁",
+      "学习目标": "完整计算查询、键、值的因果注意力，解释热图的证据边界。",
+      "正文路径": "学习正文/人工智能之旅/chapters/06-谁在看谁.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/06-谁在看谁.md",
+      "建议前章": "CKF-AI-005",
+      "建议后章": "CKF-AI-007",
+      "练习编号": [
+        "E06.1",
+        "E06.2",
+        "E06.3",
+        "E06.4"
+      ],
+      "实验序号": [
+        2
+      ]
+    },
+    {
+      "序号": 7,
+      "章节编号": "CKF-AI-007",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 2,
+      "部名称": "表征的深井",
+      "名称": "在塔内传递的纸条",
+      "源章题名": "在塔内传递的纸条",
+      "学习目标": "沿归一化、注意力、残差与前馈网络走完一个解码器块。",
+      "正文路径": "学习正文/人工智能之旅/chapters/07-在塔内传递的纸条.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/07-在塔内传递的纸条.md",
+      "建议前章": "CKF-AI-006",
+      "建议后章": "CKF-AI-008",
+      "练习编号": [
+        "E07.1",
+        "E07.2",
+        "E07.3",
+        "E07.4"
+      ],
+      "实验序号": [
+        2
+      ]
+    },
+    {
+      "序号": 8,
+      "章节编号": "CKF-AI-008",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 2,
+      "部名称": "表征的深井",
+      "名称": "地板下面是电路",
+      "源章题名": "地板下面是电路",
+      "学习目标": "估算运算量、数据搬运和缓存容量，并复算量化误差。",
+      "正文路径": "学习正文/人工智能之旅/chapters/08-地板下面是电路.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/08-地板下面是电路.md",
+      "建议前章": "CKF-AI-007",
+      "建议后章": "CKF-AI-009",
+      "练习编号": [
+        "E08.1",
+        "E08.2",
+        "E08.3",
+        "E08.4"
+      ],
+      "实验序号": [
+        6
+      ]
+    },
+    {
+      "序号": 9,
+      "章节编号": "CKF-AI-009",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 3,
+      "部名称": "在地板上学会学习",
+      "名称": "猜错下一个词的代价",
+      "源章题名": "猜错下一个词的代价",
+      "学习目标": "从条件概率推到交叉熵与困惑度，说明目标函数的适用范围。",
+      "正文路径": "学习正文/人工智能之旅/chapters/09-猜错下一个词的代价.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/09-猜错下一个词的代价.md",
+      "建议前章": "CKF-AI-008",
+      "建议后章": "CKF-AI-010",
+      "练习编号": [
+        "E09.1",
+        "E09.2",
+        "E09.3",
+        "E09.4"
+      ],
+      "实验序号": [
+        3
+      ]
+    },
+    {
+      "序号": 10,
+      "章节编号": "CKF-AI-010",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 3,
+      "部名称": "在地板上学会学习",
+      "名称": "逆流而上的责问",
+      "源章题名": "逆流而上的责问",
+      "学习目标": "手算链式法则、梯度和一次参数更新。",
+      "正文路径": "学习正文/人工智能之旅/chapters/10-逆流而上的责问.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/10-逆流而上的责问.md",
+      "建议前章": "CKF-AI-009",
+      "建议后章": "CKF-AI-011",
+      "练习编号": [
+        "E10.1",
+        "E10.2",
+        "E10.3",
+        "E10.4"
+      ],
+      "实验序号": [
+        3
+      ]
+    },
+    {
+      "序号": 11,
+      "章节编号": "CKF-AI-011",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 3,
+      "部名称": "在地板上学会学习",
+      "名称": "训练场与考试场",
+      "源章题名": "训练场与考试场",
+      "学习目标": "区分优化与泛化，设计训练、验证和测试的分工。",
+      "正文路径": "学习正文/人工智能之旅/chapters/11-训练场与考试场.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/11-训练场与考试场.md",
+      "建议前章": "CKF-AI-010",
+      "建议后章": "CKF-AI-012",
+      "练习编号": [
+        "E11.1",
+        "E11.2",
+        "E11.3",
+        "E11.4"
+      ],
+      "实验序号": [
+        3
+      ]
+    },
+    {
+      "序号": 12,
+      "章节编号": "CKF-AI-012",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 3,
+      "部名称": "在地板上学会学习",
+      "名称": "学会语言之前",
+      "源章题名": "学会语言之前",
+      "学习目标": "解释自监督预训练，把数据、任务、参数和计算预算联系起来。",
+      "正文路径": "学习正文/人工智能之旅/chapters/12-学会语言之前.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/12-学会语言之前.md",
+      "建议前章": "CKF-AI-011",
+      "建议后章": "CKF-AI-013",
+      "练习编号": [
+        "E12.1",
+        "E12.2",
+        "E12.3",
+        "E12.4"
+      ],
+      "实验序号": [
+        4
+      ]
+    },
+    {
+      "序号": 13,
+      "章节编号": "CKF-AI-013",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 4,
+      "部名称": "亲手重建回声",
+      "名称": "给回声上课",
+      "源章题名": "给回声上课",
+      "学习目标": "区分监督微调、偏好学习与强化学习，检查奖励及约束的作用。",
+      "正文路径": "学习正文/人工智能之旅/chapters/13-给回声上课.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/13-给回声上课.md",
+      "建议前章": "CKF-AI-012",
+      "建议后章": "CKF-AI-014",
+      "练习编号": [
+        "E13.1",
+        "E13.2",
+        "E13.3",
+        "E13.4"
+      ],
+      "实验序号": []
+    },
+    {
+      "序号": 14,
+      "章节编号": "CKF-AI-014",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 4,
+      "部名称": "亲手重建回声",
+      "名称": "训练从一个小玩具开始",
+      "源章题名": "训练从一个小玩具开始",
+      "学习目标": "训练二元依赖模型，用理论下界解释其无法利用的历史信息。",
+      "正文路径": "学习正文/人工智能之旅/chapters/14-训练从一个小玩具开始.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/14-训练从一个小玩具开始.md",
+      "建议前章": "CKF-AI-013",
+      "建议后章": "CKF-AI-015",
+      "练习编号": [
+        "E14.1",
+        "E14.2",
+        "E14.3",
+        "E14.4"
+      ],
+      "实验序号": [
+        3
+      ]
+    },
+    {
+      "序号": 15,
+      "章节编号": "CKF-AI-015",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 4,
+      "部名称": "亲手重建回声",
+      "名称": "拼回微型变换器",
+      "源章题名": "拼回微型Transformer",
+      "学习目标": "沿实际代码核对可训练微型解码器的维度、梯度和留出结果。",
+      "正文路径": "学习正文/人工智能之旅/chapters/15-拼回微型Transformer.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/15-拼回微型Transformer.md",
+      "建议前章": "CKF-AI-014",
+      "建议后章": "CKF-AI-016",
+      "练习编号": [
+        "E15.1",
+        "E15.2",
+        "E15.3",
+        "E15.4"
+      ],
+      "实验序号": [
+        4
+      ]
+    },
+    {
+      "序号": 16,
+      "章节编号": "CKF-AI-016",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 4,
+      "部名称": "亲手重建回声",
+      "名称": "生成并不等于检索",
+      "源章题名": "生成并不等于检索",
+      "学习目标": "比较温度、候选截断与停止条件，区分生成概率和事实依据。",
+      "正文路径": "学习正文/人工智能之旅/chapters/16-生成并不等于检索.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/16-生成并不等于检索.md",
+      "建议前章": "CKF-AI-015",
+      "建议后章": "CKF-AI-017",
+      "练习编号": [
+        "E16.1",
+        "E16.2",
+        "E16.3",
+        "E16.4"
+      ],
+      "实验序号": [
+        4
+      ]
+    },
+    {
+      "序号": 17,
+      "章节编号": "CKF-AI-017",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 5,
+      "部名称": "把模型接回世界",
+      "名称": "记忆长在什么地方",
+      "源章题名": "记忆长在什么地方",
+      "学习目标": "设计保留权限、版本、出处与时效的检索增强流程。",
+      "正文路径": "学习正文/人工智能之旅/chapters/17-记忆长在什么地方.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/17-记忆长在什么地方.md",
+      "建议前章": "CKF-AI-016",
+      "建议后章": "CKF-AI-018",
+      "练习编号": [
+        "E17.1",
+        "E17.2",
+        "E17.3",
+        "E17.4"
+      ],
+      "实验序号": [
+        5
+      ]
+    },
+    {
+      "序号": 18,
+      "章节编号": "CKF-AI-018",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 5,
+      "部名称": "把模型接回世界",
+      "名称": "思考到底发生在哪里",
+      "源章题名": "思考到底发生在哪里",
+      "学习目标": "用可测试行为讨论推理，区分计算过程、可读步骤与事后解释。",
+      "正文路径": "学习正文/人工智能之旅/chapters/18-思考到底发生在哪里.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/18-思考到底发生在哪里.md",
+      "建议前章": "CKF-AI-017",
+      "建议后章": "CKF-AI-019",
+      "练习编号": [
+        "E18.1",
+        "E18.2",
+        "E18.3",
+        "E18.4"
+      ],
+      "实验序号": [
+        5
+      ]
+    },
+    {
+      "序号": 19,
+      "章节编号": "CKF-AI-019",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 5,
+      "部名称": "把模型接回世界",
+      "名称": "给语言装上手",
+      "源章题名": "给语言装上手",
+      "学习目标": "写出带参数结构、授权检查、反馈与停止条件的工具循环。",
+      "正文路径": "学习正文/人工智能之旅/chapters/19-给语言装上手.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/19-给语言装上手.md",
+      "建议前章": "CKF-AI-018",
+      "建议后章": "CKF-AI-020",
+      "练习编号": [
+        "E19.1",
+        "E19.2",
+        "E19.3",
+        "E19.4"
+      ],
+      "实验序号": [
+        5
+      ]
+    },
+    {
+      "序号": 20,
+      "章节编号": "CKF-AI-020",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 5,
+      "部名称": "把模型接回世界",
+      "名称": "世界变成多种信号",
+      "源章题名": "世界变成多种信号",
+      "学习目标": "说明图像、声音和视频的表示，比较不同条件生成机制。",
+      "正文路径": "学习正文/人工智能之旅/chapters/20-世界变成多种信号.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/20-世界变成多种信号.md",
+      "建议前章": "CKF-AI-019",
+      "建议后章": "CKF-AI-021",
+      "练习编号": [
+        "E20.1",
+        "E20.2",
+        "E20.3",
+        "E20.4"
+      ],
+      "实验序号": []
+    },
+    {
+      "序号": 21,
+      "章节编号": "CKF-AI-021",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 6,
+      "部名称": "带着证据回到地面",
+      "名称": "走出屏幕之后",
+      "源章题名": "走出屏幕之后",
+      "学习目标": "区分动作表示、策略与闭环控制，计算时延和误差敏感度。",
+      "正文路径": "学习正文/人工智能之旅/chapters/21-走出屏幕之后.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/21-走出屏幕之后.md",
+      "建议前章": "CKF-AI-020",
+      "建议后章": "CKF-AI-022",
+      "练习编号": [
+        "E21.1",
+        "E21.2",
+        "E21.3",
+        "E21.4"
+      ],
+      "实验序号": [
+        6
+      ]
+    },
+    {
+      "序号": 22,
+      "章节编号": "CKF-AI-022",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 6,
+      "部名称": "带着证据回到地面",
+      "名称": "让它在你的机器上生活",
+      "源章题名": "让它在你的机器上生活",
+      "学习目标": "拆分预填充与解码，估算资源并解释缓存、批处理和调度。",
+      "正文路径": "学习正文/人工智能之旅/chapters/22-让它在你的机器上生活.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/22-让它在你的机器上生活.md",
+      "建议前章": "CKF-AI-021",
+      "建议后章": "CKF-AI-023",
+      "练习编号": [
+        "E22.1",
+        "E22.2",
+        "E22.3",
+        "E22.4"
+      ],
+      "实验序号": [
+        6
+      ]
+    },
+    {
+      "序号": 23,
+      "章节编号": "CKF-AI-023",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 6,
+      "部名称": "带着证据回到地面",
+      "名称": "审讯一次漂亮的回答",
+      "源章题名": "审讯一次漂亮的回答",
+      "学习目标": "设计独立评估与配对消融，分别衡量质量、证据和越权。",
+      "正文路径": "学习正文/人工智能之旅/chapters/23-审讯一次漂亮的回答.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/23-审讯一次漂亮的回答.md",
+      "建议前章": "CKF-AI-022",
+      "建议后章": "CKF-AI-024",
+      "练习编号": [
+        "E23.1",
+        "E23.2",
+        "E23.3",
+        "E23.4"
+      ],
+      "实验序号": [
+        7
+      ]
+    },
+    {
+      "序号": 24,
+      "章节编号": "CKF-AI-024",
+      "课程编号": "CKF-BOOK-AI-JOURNEY-001",
+      "状态": "CANDIDATE",
+      "部序号": 6,
+      "部名称": "带着证据回到地面",
+      "名称": "再回到那条消息",
+      "源章题名": "再回到那条消息",
+      "学习目标": "把输入、模型、工具、证据与控制接成可核查的完整任务链。",
+      "正文路径": "学习正文/人工智能之旅/chapters/24-再回到那条消息.md",
+      "正文链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/人工智能之旅/chapters/24-再回到那条消息.md",
+      "建议前章": "CKF-AI-023",
+      "建议后章": null,
+      "练习编号": [
+        "E24.1",
+        "E24.2",
+        "E24.3",
+        "E24.4"
+      ],
+      "实验序号": [
+        5
+      ]
+    }
+  ],
+  "实验": [
+    {
+      "序号": 1,
+      "名称": "字节与字节对编码",
+      "状态": "CANDIDATE",
+      "数据状态": "DEMO_ONLY",
+      "源代码路径": "实践材料/人工智能之旅/01-tokenization.py",
+      "源代码链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/01-tokenization.py",
+      "手册链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md#lab-01",
+      "章节编号": [
+        "CKF-AI-004"
+      ],
+      "观察目标": "从完备字节词表训练合并规则并核对文本还原。"
+    },
+    {
+      "序号": 2,
+      "名称": "因果注意力",
+      "状态": "CANDIDATE",
+      "数据状态": "DEMO_ONLY",
+      "源代码路径": "实践材料/人工智能之旅/02-attention.py",
+      "源代码链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/02-attention.py",
+      "手册链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md#lab-02",
+      "章节编号": [
+        "CKF-AI-005",
+        "CKF-AI-006",
+        "CKF-AI-007"
+      ],
+      "观察目标": "改变未来输入，检查过去位置的输出是否保持不变。"
+    },
+    {
+      "序号": 3,
+      "名称": "梯度与二元模型",
+      "状态": "CANDIDATE",
+      "数据状态": "DEMO_ONLY",
+      "源代码路径": "实践材料/人工智能之旅/03-gradient-bigram.py",
+      "源代码链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/03-gradient-bigram.py",
+      "手册链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md#lab-03",
+      "章节编号": [
+        "CKF-AI-009",
+        "CKF-AI-010",
+        "CKF-AI-011",
+        "CKF-AI-014"
+      ],
+      "观察目标": "核对梯度，比较训练损失与模型结构给出的下界。"
+    },
+    {
+      "序号": 4,
+      "名称": "微型解码器",
+      "状态": "CANDIDATE",
+      "数据状态": "DEMO_ONLY",
+      "源代码路径": "实践材料/人工智能之旅/04-tiny-transformer.py",
+      "源代码链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/04-tiny-transformer.py",
+      "手册链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md#lab-04",
+      "章节编号": [
+        "CKF-AI-012",
+        "CKF-AI-015",
+        "CKF-AI-016"
+      ],
+      "观察目标": "从随机参数训练672参数模型，区分训练方向与留出组合。"
+    },
+    {
+      "序号": 5,
+      "名称": "检索与工具边界",
+      "状态": "CANDIDATE",
+      "数据状态": "DEMO_ONLY",
+      "源代码路径": "实践材料/人工智能之旅/05-rag-agent.py",
+      "源代码链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/05-rag-agent.py",
+      "手册链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md#lab-05",
+      "章节编号": [
+        "CKF-AI-017",
+        "CKF-AI-018",
+        "CKF-AI-019",
+        "CKF-AI-024"
+      ],
+      "观察目标": "用规则模拟检索权限、证据缺失和只计划模式的动作拒绝。"
+    },
+    {
+      "序号": 6,
+      "名称": "量化与资源预算",
+      "状态": "CANDIDATE",
+      "数据状态": "DEMO_ONLY",
+      "源代码路径": "实践材料/人工智能之旅/06-quantization-budget.py",
+      "源代码链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/06-quantization-budget.py",
+      "手册链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md#lab-06",
+      "章节编号": [
+        "CKF-AI-008",
+        "CKF-AI-021",
+        "CKF-AI-022"
+      ],
+      "观察目标": "比较数值误差、任务敏感性、修复成本与缓存内存。"
+    },
+    {
+      "序号": 7,
+      "名称": "评估与消融",
+      "状态": "CANDIDATE",
+      "数据状态": "DEMO_ONLY",
+      "源代码路径": "实践材料/人工智能之旅/07-evaluation.py",
+      "源代码链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/07-evaluation.py",
+      "手册链接": "https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/实践材料/人工智能之旅/README.md#lab-07",
+      "章节编号": [
+        "CKF-AI-023"
+      ],
+      "观察目标": "用规则基线展示混淆矩阵、配对比较及统计假设边界。"
+    }
+  ]
+}
+

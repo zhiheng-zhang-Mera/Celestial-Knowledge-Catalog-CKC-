@@ -6,6 +6,8 @@
 
 ## 从这里进入
 
+**已具备基本编程阅读能力：[人工智能之旅——《一条消息的地下旅行》](自学/人工智能之旅.md)。** 这条独立课程包含六部二十四章、96道练习答案与七个本地实验，从消息、表示与硬件下行到损失和梯度，再重建模型、检索和智能体。面向计算机专业入门读者，数学按需补课；状态为 **CANDIDATE**。它不调整既有263个分类的身份和审核状态，28个零基础单元继续保留。[课程导航数据](catalog/人工智能之旅导航.json)。
+
 [理财与投资知识库](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-/blob/main/学习正文/理财投资六单元.md)：六个循序渐进单元，从预算与风险缓冲到投资工具、组合计算及金融沟通，含36道分层题解和六项综合实践。
 
 **第一次学习：[完全零基础自学首页](自学/README.md)。** 只要求能够阅读日常中文、打开网页；不假定掌握分数、方程、编程、物理、心理或投资知识。
@@ -63,3 +65,4 @@
 [知识森林](https://github.com/zhiheng-zhang-Mera/Celestial-Knowledge-Forest-CKF-)负责多语言原文、知识与证据；[主程序](https://github.com/zhiheng-zhang-Mera/Celestial-Throne)负责未来运行时入口和授权；[总导航](https://github.com/zhiheng-zhang-Mera/General-Repo-Navigator)仅保留仓库入口。
 
 自学练习只用虚构情境、模拟数据和纸笔计算，不将私人聊天、心理、性别、健康或财务资料放入公开仓库。外部资源只链接，不批量导入原文。遵守 `CEL-POLICY-20261009-v1`；没有新增工作流、运行产品测试、变更 Runner、部署、发布或改动冻结项目。
+
